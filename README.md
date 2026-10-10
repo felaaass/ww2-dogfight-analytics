@@ -57,9 +57,17 @@ sql/
 ├── 04_comparacao_variantes_aeronaves.sql # evolução de especificações por linhagem
 └── 05_correlacao_producao_perdas.sql # correlação entre capacidade fabril e atrito
 powerquery/
-└── consultas.md                   # consultas M com tipagem estrita para o Power BI
+├── dim_aeronave.m                 # extração e tipagem M da dim_aeronave
+├── dim_batalha.m                  # extração e tipagem M da dim_batalha
+├── dim_data.m                     # extração e tipagem M da dim_data
+├── dim_pais.m                     # extração e tipagem M da dim_pais
+├── dim_piloto.m                   # extração e tipagem M da dim_piloto
+├── fato_perdas.m                  # extração e tipagem M da fato_perdas
+├── fato_producao.m                # extração e tipagem M da fato_producao
+└── fato_vitorias.m                # extração e tipagem M da fato_vitorias
 dax/
-└── medidas.md                     # medidas DAX (RANKX, Pareto, Time Intelligence)
+├── medidas.dax                    # medidas DAX consolidadas
+└── medidas.md                     # especificações de medidas (RANKX, Pareto, Time Intelligence)
 docs/
 ├── dicionario_dados.md            # especificação das 8 tabelas dimensionais e fatos
 ├── metodologia_e_limitacoes.md    # documentação técnica de fontes e lacunas históricas
@@ -80,5 +88,5 @@ LICENSE
 - [x] Etapa 3 — Modelagem dimensional em Star Schema (SQLite + CSVs processados)
 - [x] Etapa 4 — Consultas SQL analíticas com Window Functions e CTEs
 - [x] Etapa 5 — Análise exploratória e regressão em Jupyter Notebook
-- [x] Etapa 6 — Fórmulas DAX e consultas Power Query M documentadas
-- [ ] Etapa 7 — Montagem visual no Power BI Desktop
+- [x] Etapa 6 — Modelagem dimensional, DAX e consultas Power Query M
+
