@@ -1,0 +1,1021 @@
+﻿id_piloto,nome_piloto,pais,forca_aerea,total_vitorias,aeronave_principal,teatro_de_operacao,periodo_ativo,fonte,id_pais
+1,Erich Hartmann,Alemanha,Luftwaffe,352.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+2,Gerhard Barkhorn,Alemanha,Luftwaffe,301.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+3,Günther Rall,Alemanha,Luftwaffe,275.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+4,Otto Kittel,Alemanha,Luftwaffe,267.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+5,Walter Nowotny,Alemanha,Luftwaffe,258.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+6,Wilhelm Batz,Alemanha,Luftwaffe,237.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+7,Erich Rudorffer,Alemanha,Luftwaffe,224.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+8,Heinz Bär,Alemanha,Luftwaffe,221.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+9,Hermann Graf,Alemanha,Luftwaffe,212.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+10,Heinrich Ehrler,Alemanha,Luftwaffe,208.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+11,Theodor Weissenberger,Alemanha,Luftwaffe,208.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+12,Hans Philipp,Alemanha,Luftwaffe,206.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+13,Walter Schuck,Alemanha,Luftwaffe,206.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+14,Anton Hafner,Alemanha,Luftwaffe,204.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+15,Helmut Lipfert,Alemanha,Luftwaffe,203.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+16,Walter Krupinski,Alemanha,Luftwaffe,197.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+17,Anton Hackl,Alemanha,Luftwaffe,192.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+18,Joachim Brendel,Alemanha,Luftwaffe,189.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+19,Max Stotz,Alemanha,Luftwaffe,189.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+20,Joachim Kirschner,Alemanha,Luftwaffe,188.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+21,Kurt Brändle,Alemanha,Luftwaffe,180.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+22,Günther Josten,Alemanha,Luftwaffe,178.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+23,Johannes Steinhoff,Alemanha,Luftwaffe,176.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+24,Ernst-Wilhelm Reinert,Alemanha,Luftwaffe,174.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+25,Günther Schack,Alemanha,Luftwaffe,174.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+26,Heinz Schmidt,Alemanha,Luftwaffe,173.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+27,Emil Lang,Alemanha,Luftwaffe,173.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+28,Horst Ademeit,Alemanha,Luftwaffe,166.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+29,Wolf-Dietrich Wilcke,Alemanha,Luftwaffe,162.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+30,Hans-Joachim Marseille,Alemanha,Luftwaffe,158.0,Messerschmitt Bf 109 / Fw 190,Frente Ocidental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+31,Heinrich Sturm,Alemanha,Luftwaffe,158.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+32,Gerhard Thyben,Alemanha,Luftwaffe,157.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+33,Hans Beisswenger,Alemanha,Luftwaffe,152.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+34,Peter Düttmann,Alemanha,Luftwaffe,152.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+35,Gordon Gollob,Alemanha,Luftwaffe,150.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+36,Fritz Tegtmeier,Alemanha,Luftwaffe,146.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+37,Albin Wolf,Alemanha,Luftwaffe,144.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+38,Kurt Tanzer,Alemanha,Luftwaffe,143.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+39,Friedrich-Karl Müller,Alemanha,Luftwaffe,140.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+40,Friedrich Wachowiak,Alemanha,Luftwaffe,140.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+41,Karl Gratz,Alemanha,Luftwaffe,138.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+42,Heinrich Setz,Alemanha,Luftwaffe,138.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+43,Rudolf Trenkel,Alemanha,Luftwaffe,138.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+44,Franz Schall,Alemanha,Luftwaffe,137.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+45,Walter Wolfrum,Alemanha,Luftwaffe,137.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+46,Adolf Dickfeld,Alemanha,Luftwaffe,136.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+47,Horst-Günther von Fassong,Alemanha,Luftwaffe,136.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+48,Otto Fönnekold,Alemanha,Luftwaffe,136.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+49,Karl-Heinz Weber,Alemanha,Luftwaffe,136.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+50,Joachim Müncheberg,Alemanha,Luftwaffe,135.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+51,Hans Waldmann,Alemanha,Luftwaffe,134.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+52,Alfred Grislawski,Alemanha,Luftwaffe,133.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+53,Johannes Wiese,Alemanha,Luftwaffe,133.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+54,Adolf Borchers,Alemanha,Luftwaffe,132.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+55,Erwin Clausen,Alemanha,Luftwaffe,132.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+56,Wilhelm Lemke,Alemanha,Luftwaffe,131.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+57,Gerhard Hoffmann,Alemanha,Luftwaffe,130.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+58,Heinrich Sterr,Alemanha,Luftwaffe,130.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+59,Walther Dahl,Alemanha,Luftwaffe,129.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+60,Franz Eisenach,Alemanha,Luftwaffe,129.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+61,Franz Dörr,Alemanha,Luftwaffe,128.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+62,Rudolf Rademacher,Alemanha,Luftwaffe,126.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+63,Josef Zwernemann,Alemanha,Luftwaffe,126.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+64,Dietrich Hrabak,Alemanha,Luftwaffe,125.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+65,Wolf-Udo Ettel,Alemanha,Luftwaffe,124.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+66,Herbert Ihlefeld,Alemanha,Luftwaffe,123.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+67,Wolfgang Tonne,Alemanha,Luftwaffe,122.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+68,Heinz Marquardt,Alemanha,Luftwaffe,121.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+69,Heinz-Wolfgang Schnaufer,Alemanha,Luftwaffe,121.0,Bf 110 / Ju 88,Defesa do Reich,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+70,Robert Weiß,Alemanha,Luftwaffe,121.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+71,Friedrich Obleser,Alemanha,Luftwaffe,120.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+72,Erich Leie,Alemanha,Luftwaffe,118.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+73,Franz-Josef Beerenbrock,Alemanha,Luftwaffe,117.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+74,Hans-Joachim Birkner,Alemanha,Luftwaffe,117.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+75,Jakob Norz,Alemanha,Luftwaffe,117.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+76,Walter Oesau,Alemanha,Luftwaffe,117.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+77,Heinz Wernicke,Alemanha,Luftwaffe,117.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+78,August Lambert,Alemanha,Luftwaffe,116.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+79,Wilhelm Crinius,Alemanha,Luftwaffe,114.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+80,Werner Schröer,Alemanha,Luftwaffe,114.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+81,Hans Dammers,Alemanha,Luftwaffe,113.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+82,Berthold Korts,Alemanha,Luftwaffe,113.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+83,Kurt Bühligen,Alemanha,Luftwaffe,112.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+84,Kurt Ubben,Alemanha,Luftwaffe,111.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+85,Helmut Lent,Alemanha,Luftwaffe,110.0,Bf 110 / Ju 88,Defesa do Reich,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+86,Franz Woidich,Alemanha,Luftwaffe,110.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+87,Emil Bitsch,Alemanha,Luftwaffe,108.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+88,Hans Hahn,Alemanha,Luftwaffe,108.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+89,Bernhard Vechtel,Alemanha,Luftwaffe,108.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+90,Viktor Bauer,Alemanha,Luftwaffe,106.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+91,Werner Lucas,Alemanha,Luftwaffe,106.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+92,Günther Lützow,Alemanha,Luftwaffe,105.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+93,Eberhard von Boremski,Alemanha,Luftwaffe,104.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+94,Adolf Galland,Alemanha,Luftwaffe,104.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+95,Heinz Sachsenberg,Alemanha,Luftwaffe,104.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+96,Hartmann Grasser,Alemanha,Luftwaffe,103.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+97,Siegfried Freytag,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+98,Friedrich Geisshardt,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+99,Egon Mayer,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+100,Herbert Rollwage,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+101,Max-Hellmuth Ostermann,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+102,Josef Wurmheller,Alemanha,Luftwaffe,102.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+103,Werner Mölders,Alemanha,Luftwaffe,101.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+104,Rudolf Miethig,Alemanha,Luftwaffe,101.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+105,Josef Priller,Alemanha,Luftwaffe,101.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+106,Ulrich Wernitz,Alemanha,Luftwaffe,101.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+107,Paul-Heinrich Dähne,Alemanha,Luftwaffe,100.0,Messerschmitt Bf 109 / Fw 190,Frente Oriental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+108,Reinhard Seiler,Alemanha,Luftwaffe,100.0,Bf 110 / Ju 88,Defesa do Reich,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_credited_with_100_or_more_victories,1
+109,Donald N. Aldrich,Estados Unidos,USMC,20.0,F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+110,Charles F. Anderson Jr.,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+111,"Clarence E. ""Bud"" Anderson",Estados Unidos,USAAF,16.25,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+112,Robert W. Aschenbrener,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+113,Douglas Baker,Estados Unidos,USN,16.33,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+114,Harold W. Bauer,Estados Unidos,USMC,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+115,Walter C. Beckham,Estados Unidos,USAAF,18.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+116,Marshall U. Beebe,Estados Unidos,USN,10.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+117,Don M. Beerbower,Estados Unidos,USAAF,15.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+118,Duane W. Beeson,Estados Unidos,USAAF,17.33,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+119,John T. Blackburn,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+120,Samuel V. Blair,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+121,Wayne K. Blickenstaff,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+122,Donald H. Bochkay,Estados Unidos,USAAF,13.83,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+123,Richard I. Bong,Estados Unidos,USAAF,40.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+124,Jack T. Bradley,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+125,Michael Brezas,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+126,James L. Brooks,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+127,Carl A. Brown Jr.,Estados Unidos,USN,10.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+128,Henry W. Brown,Estados Unidos,USAAF,14.2,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+129,Quince L. Brown,Estados Unidos,USAAF,12.33,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+130,Samuel J. Brown,Estados Unidos,USAAF,15.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+131,Lowell K. Brueland,Estados Unidos,USAAF,12.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+132,Donald S. Bryan,Estados Unidos,USAAF,13.33,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+133,Marion E. Carl,Estados Unidos,USMC,18.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+134,Daniel A. Carmichael,Estados Unidos,USN,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+135,George Carpenter,Estados Unidos,USAAF,13.84,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+136,Bruce W. Carr,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+137,George R. Carr,Estados Unidos,USN,11.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+138,Leonard K. Carson,Estados Unidos,USAAF,18.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+139,George F. Ceuleers,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+140,Levi R. Chase,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+141,Leonard J. Check,Estados Unidos,USN,12.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+142,Frederick J. Christensen,Estados Unidos,USAAF,21.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+143,James A. Clark,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+144,Thaddeus T. Coleman,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+145,Jack E. Conger,Estados Unidos,USMC,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+146,Paul A. Conger,Estados Unidos,USAAF,11.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+147,"Edward ""Porky"" Cragg",Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+148,Clement M. Craig,Estados Unidos,USN,11.75,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+149,James N. Cupp,Estados Unidos,USMC,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+150,Robert C. Curtis,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+151,Kenneth H. Dahlberg,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+152,William A. Dean Jr.,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+153,Robert M. DeHaven,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+154,Phillip C. DeLong,Estados Unidos,USMC,11.66,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+155,George A. Doersch,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+156,Archie G. Donahue,Estados Unidos,USMC,14.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+157,Walter F. Duke,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+158,George Chamberlain Duncan,Estados Unidos,USN,13.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+159,Glenn E. Duncan,Estados Unidos,USAAF,19.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+160,William D. Dunham,Estados Unidos,USAAF,16.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+161,Glenn T. Eagleston,Estados Unidos,USAAF,18.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+162,Clyde B. East,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+163,David B. Eastham,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+164,Wallace N. Emmer,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+165,James J. England,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+166,John B. England,Estados Unidos,USAAF,17.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+167,Loren D. Everton,Estados Unidos,USMC,12.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+168,Patrick D. Fleming,Estados Unidos,USAAF,19.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+169,Joseph J. Foss,Estados Unidos,USMC,26.0,F4F Wildcat,Pacífico (Guadalcanal),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+170,Robert W. Foy,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+171,Carl M. Frantz,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+172,Kenneth D. Frazier,Estados Unidos,USAAF,12.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+173,James B. French,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+174,"Francis S. ""Gabby"" Gabreski",Estados Unidos,USAAF,28.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+175,Robert E. Galer,Estados Unidos,USMC,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+176,William K. Giroux,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+177,George W. Gleason,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+178,Fred W. Glover,Estados Unidos,USAAF,10.33,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+179,John T. Godfrey,Estados Unidos,USAAF,16.33,P-47 / P-51,Europa (ETO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+180,Robert J. Goebel,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+181,Walter J. Goehausen Jr.,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+182,James A. Goodson,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+183,"Herschel H. ""Herky"" Green",Estados Unidos,USAAF,18.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+184,William T. Halton,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+185,John F. Hampshire,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+186,Robert M. Hanson,Estados Unidos,USMC,25.0,F4U Corsair,Pacífico (Bougainville),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+187,Bill Harris,Estados Unidos,USAAF,16.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+188,Cecil E. Harris,Estados Unidos,USN,24.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+189,Ernest A. Harris,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+190,Arthur R. Hawkins,Estados Unidos,USN,14.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+191,Cotesworth B. Head Jr.,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+192,Roger R. Hedrick,Estados Unidos,USN,12.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+193,"John C. ""Pappy"" Herbst",Estados Unidos,USAAF,18.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+194,Howard D. Hively,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+195,Ralph K. Hofer,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+196,Bruce K. Holloway,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+197,Cyril F. Homer,Estados Unidos,USAAF,15.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+198,William J. Hovde,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+199,Arthur F. Jeffrey,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+200,Gerald R. Johnson,Estados Unidos,USAAF,22.0,P-38 Lightning,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+201,Gerald W. Johnson,Estados Unidos,USAAF,16.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+202,Robert S. Johnson,Estados Unidos,USAAF,27.0,P-47 Thunderbolt,Europa (ETO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+203,Neel E. Kearby,Estados Unidos,USAAF,22.0,P-47 Thunderbolt,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+204,Ira C. Kepford,Estados Unidos,USN,16.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+205,Phillip L. Kirkwood,Estados Unidos,USN,12.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+206,John A. Kirla,Estados Unidos,USAAF,11.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+207,Kenneth G. Ladd,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+208,John D. Landers,Estados Unidos,USAAF,14.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+209,John B. Lawler,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+210,Francis J. Lent,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+211,William L. Leverette,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+212,Ted E. Lines,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+213,Raymond H. Littge,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+214,John S. Loisel,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+215,Herbert H. Long,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+216,Wayne L. Lowry,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+217,Thomas J. Lynch,Estados Unidos,USAAF,20.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+218,"Charles H. ""Mac"" MacDonald",Estados Unidos,USAAF,27.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+219,"Walker M. ""Bud"" Mahurin",Estados Unidos,USAAF,21.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+220,Charles M. Mallory,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+221,Thomas H. Mann Jr.,Estados Unidos,USMC,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+222,William P. Marontate,Estados Unidos,USMC,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+223,William J. Masoner Jr.,Estados Unidos,USN,12.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+224,David McCampbell,Estados Unidos,US Navy,34.0,F6F Hellcat,Pacífico (Naval),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+225,Carroll W. McColpin,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+226,Edward O. McComas,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+227,Charles M. McCorkle,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+228,Elbert S. McCuskey,Estados Unidos,USAAF,13.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+229,Norman L. McDonald,Estados Unidos,USAAF,11.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+230,Thomas B. McGuire Jr.,Estados Unidos,USAAF,38.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+231,Pierce W. McKennon,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+232,Hamilton McWhorter III,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+233,Nicholas Megura,Estados Unidos,USAAF,11.83,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+234,Roger W. Mehle,Estados Unidos,USN,13.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+235,John C. Meyer,Estados Unidos,USAAF,24.0,P-51 Mustang / P-47,Europa (ETO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+236,Willard W. Millikan,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+237,Harris E. Mitchell,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+238,John W. Mitchell,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+239,Leland P. Molland,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+240,Robert W. Moore,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+241,Glennon T. Moran,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+242,Robert E. Murray,Estados Unidos,USN,10.33,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+243,Cornelius N. Nooy,Estados Unidos,USN,19.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+244,"Louis H. ""Red Dog"" Norley",Estados Unidos,USAAF,10.33,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+245,Frank Q. O'Connor,Estados Unidos,USAAF,10.75,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+246,Robin Olds,Estados Unidos,USAAF,13.0,P-38 / P-51,Europa (ETO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+247,Lloyd J. Overfield,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+248,Harry A. Parker,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+249,Richard A. Peterson,Estados Unidos,USAAF,15.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+250,Harvey P. Picken,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+251,Spiros N. Pisanos,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+252,Joe H. Powers Jr.,Estados Unidos,USAAF,14.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+253,"George E. ""Ratsy"" Preddy Jr.",Estados Unidos,USAAF,26.83,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+254,Michael J. Quirk,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+255,Robert J. Rankin,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+256,James V. Reber Jr.,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+257,Daniel R. Rehm Jr.,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+258,Thomas H. Reidy,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+259,Robert H. Riddle,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+260,James F. Rigg,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+261,Jay T. Robbins,Estados Unidos,USAAF,22.0,P-38 Lightning,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+262,Daniel T. Roberts Jr.,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+263,Donald E. Runyon,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+264,Roy W. Rushing,Estados Unidos,USN,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+265,Donald H. Sapp,Estados Unidos,USMC,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+266,David C. Schilling,Estados Unidos,USAAF,22.5,P-47 Thunderbolt,Europa (ETO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+267,Leroy A. Schreiber,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+268,Robert L. Scott Jr.,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+269,Harold E. Segal,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+270,Edward O. Shaw,Estados Unidos,USMC,14.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+271,James A. Shirley,Estados Unidos,USN,12.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+272,Murray J. Shubin,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+273,Arthur Singer Jr.,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+274,Norman C. Skogstad,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+275,William J. Sloan,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+276,Armistead B. Smith Jr.,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+277,Cornelius M. Smith Jr.,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+278,John L. Smith,Estados Unidos,USMC,19.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+279,John M. Smith,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+280,William N. Snider,Estados Unidos,USMC,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+281,Kenneth C. Sparks,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+282,Harold L. Spears,Estados Unidos,USMC,15.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+283,Richard E. Stambook,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+284,Paul M. Stanch,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+285,Robert W. Stephens,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+286,James C. Stewart,Estados Unidos,USAAF,11.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+287,James S. Stewart,Estados Unidos,USN,10.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+288,Charles R. Stimpson,Estados Unidos,USN,16.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+289,John A. Storch,Estados Unidos,USAAF,10.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+290,Donald J. Strait,Estados Unidos,USAAF,13.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+291,John R. Strane,Estados Unidos,USN,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+292,Elliot Summer,Estados Unidos,USAAF,10.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+293,James E. Swett,Estados Unidos,USMC,15.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+294,John C. C. Symmes,Estados Unidos,USN,11.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+295,Wilbur J. Thomas,Estados Unidos,USMC,18.5,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+296,John F. Thornell Jr.,Estados Unidos,USAAF,17.25,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+297,Richard E. Turner,Estados Unidos,USAAF,11.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+298,Wendell V. Twelves,Estados Unidos,USN,13.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+299,Eugene A. Valencia Jr.,Estados Unidos,USN,23.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+300,James S. Varnell Jr.,Estados Unidos,USAAF,17.0,P-38 Lightning,Mediterrâneo (MTO),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+301,"Stanley W. ""Swede"" Vejtasa",Estados Unidos,USN,10.25,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+302,John J. Voll,Estados Unidos,USAAF,21.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+303,Albert O. Vorse Jr.,Estados Unidos,USAAF,11.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+304,Alexander Vraciu,Estados Unidos,US Navy,19.0,F6F Hellcat,Pacífico (Naval),1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+305,Kenneth A. Walsh,Estados Unidos,USMC,21.0,F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+306,James A. Watkins,Estados Unidos,USAAF,12.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+307,George S. Welch,Estados Unidos,USAAF,16.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+308,Richard L. West,Estados Unidos,USAAF,14.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+309,Robert B. Westbrook,Estados Unidos,USAAF,20.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+310,Raymond S. Wetmore,Estados Unidos,USAAF,21.25,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+311,William T. Whisner,Estados Unidos,USAAF,15.5,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+312,Felix D. Williamson,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+313,John L. Wirth,Estados Unidos,USN,14.0,F6F Hellcat / F4U Corsair,Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+314,Charles Elwood Yeager,Estados Unidos,USAAF,13.0,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+315,"Hubert ""Hub"" Zemke",Estados Unidos,USAAF,17.75,P-51 Mustang / P-47 Thunderbolt,Europa / Pacífico,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_States,4
+316,Grigory Rechkalov,União Soviética,VVS,65.0,P-39 Airacobra / I-16,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+317,Ivan Kozhedub,União Soviética,VVS,64.0,La-5 / La-7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+318,Nikolai Gulaev,União Soviética,VVS,60.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+319,Kirill Yevstigneyev,União Soviética,VVS,56.0,La-5 / La-7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+320,Dmitry Glinka,União Soviética,VVS,50.0,P-39 Airacobra,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+321,Alexander Pokryshkin,União Soviética,VVS,49.0,P-39 Airacobra,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+322,Amet-khan Sultan,União Soviética,VVS,49.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+323,Alexander Koldunov,União Soviética,VVS,47.0,Yak-7B / Yak-9,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+324,Nikolai Skomorokhov,União Soviética,VVS,47.0,La-5,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+325,Arseny Vorozheykin,União Soviética,VVS,46.0,Yak-7B / Yak-9,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+326,Andrey Borovykh,União Soviética,VVS,46.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+327,Vladimir Serov,União Soviética,VVS,45.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+328,Vladimir Lavrinenkov,União Soviética,VVS,43.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+329,Aleksey Ryazanov,União Soviética,VVS,43.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+330,Fyodor Arkhipenko,União Soviética,VVS,43.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+331,Nikolai Krasnov,União Soviética,VVS,42.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+332,Sergey Morgunov,União Soviética,VVS,41.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+333,Mikhail Pivovarov,União Soviética,VVS,41.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+334,Ivan Stepanenko,União Soviética,VVS,41.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+335,Vitaly Popkov,União Soviética,VVS,40.0,La-5 / La-7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+336,Ivan Babak,União Soviética,VVS,40.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+337,Pyotr Gnido,União Soviética,VVS,40.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+338,Mikhail Komelkov,União Soviética,VVS,40.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+339,Andrey Baklan,União Soviética,VVS,41.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+340,Ivan Likhobabin,União Soviética,VVS,39.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+341,Pavel Kamozin,União Soviética,VVS,38.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+342,Valentin Makarov,União Soviética,VVS,38.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+343,Ivan Maslov,União Soviética,VVS,38.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+344,Ivan Fyodorov,União Soviética,VVS,37.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+345,Nikolai Artamonov,União Soviética,VVS,37.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+346,Ilya Shmelyov,União Soviética,VVS,37.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+347,Vasily Mikhalyov,União Soviética,VVS,37.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+348,Aleksey Smirnov,União Soviética,VVS,36.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+349,Aleksandr Karpov,União Soviética,VVS,36.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+350,Konstantin Kovalyov,União Soviética,VVS,36.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+351,Sergey Lugansky,União Soviética,VVS,35.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+352,Fyodor Chubukov,União Soviética,VVS,35.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+353,Andrey Kulagin,União Soviética,VVS,35.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+354,Aleksey Alelyukhin,União Soviética,VVS,34.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+355,Mikhail Mudrov,União Soviética,VVS,34.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+356,Vladimir Bobrov,União Soviética,VVS,34.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+357,Stepan Novichkov,União Soviética,VVS,34.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+358,Aleksandr Klubov,União Soviética,VVS,34.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+359,Vladimir Merkulov,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+360,Konstantin Novikov,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+361,Pavel Babaylov,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+362,Nikolai Zelenov,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+363,Nikolai Ignatev,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+364,Nikolai Kuznetsov,União Soviética,VVS,33.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+365,Pavel Tarasov,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+366,Mikhail Zelyonkin,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+367,Ivan Romanenko,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+368,Anatoly Grachyov,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+369,Aleksandr Lobanov,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+370,Aleksey Reshetov,União Soviética,VVS,32.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+371,Aleksandr Dyachkov,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+372,Sergey Glinkin,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+373,Pavel Golovachev,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+374,Ivan Kravtsov,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+375,Ivan Zudilov,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+376,Viktor Nagornyy,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+377,Aleksandr Kochetov,União Soviética,VVS,31.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+378,Viktor Kirilyuk,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+379,Vasily Kurochkin,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+380,Aleksandr Lavrenov,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+381,Pyotr Likholetov,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+382,Ivan Borisov,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+383,Aleksey Murashev,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+384,Andrey Chirkov,União Soviética,VVS,30.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+385,Vasily Markov,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+386,Mikhail Sachkov,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+387,Boris Glinka,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+388,Shalva Kiria,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+389,Aleksandr Kumanichkin,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+390,Anatoly Tyutin,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+391,Nikolai Kitaev,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+392,Nikolai Rudenko,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+393,Aleksey Gubanov,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+394,Ilya Pavlovsky,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+395,Aleksey Solomatin,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+396,Dmitry Medvedev,União Soviética,VVS,29.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+397,Sergey Gorelov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+398,Ivan Kornienko,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+399,Spartak Makovsky,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+400,Ivan Sytov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+401,Mikhail Pogorelov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+402,Pavel Kutakhov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+403,Igor Kaberov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+404,Boris Kovzan,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+405,Sergey Safronov,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+406,Nikolai Dunaev,União Soviética,VVS,28.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+407,Viktor Yashin,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+408,Yegor Vasilevsky,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+409,Valentin Vedeneev,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+410,Aleksandr Laukhin,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+411,Arkady Kovachevich,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+412,Pyotr Pokryshev,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+413,Nikolai Gusarov,União Soviética,VVS,27.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+414,Aleksey Churilin,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+415,Pavel Dolgaryov,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+416,Ivan Leonovich,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+417,Akop Manukyan,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+418,Boris Rogov,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+419,Ivan Sklyarov,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+420,Pyotr Grishchenko,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+421,Andrey Trud,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+422,Pavel Chepinoga,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+423,Ivan Kuznetsov,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+424,Vasily Barsukov,União Soviética,VVS,26.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+425,Aleksandr Sitkovsky,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+426,Aleksey Yegorov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+427,Dmitry Yermakov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+428,Vasily Bondarenko,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+429,Ivan Gorbunov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+430,Anatoly Kozhevnikov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+431,Viktor Suvirov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+432,Konstantin Krasavin,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+433,Pavel Muravyov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+434,Boris Safonov,União Soviética,VVS,25.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+435,Mikhail Baranov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+436,Vladimir Denisenko,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+437,Ivan Laveykin,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+438,Vasily Merkushev,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+439,Ivan Popov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+440,Vasily Zaitsev,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+441,Ivan Borisenko,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+442,Ivan Tabakov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+443,Yevgeny Savitsky,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+444,Viktor Aleksandryuk,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+445,Arkady Fyodorov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+446,Lev Shestakov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+447,Aleksey Khlobystov,União Soviética,VVS,24.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+448,Vazgen Oganesov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+449,Vasily Rogozhin,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+450,Nikolai Surnev,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+451,Mikhail Mazan,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+452,Fyodor Mitrofanov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+453,Nikolai Pechyonyy,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+454,Vasily Sidorenkov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+455,Aleksandr Bastrikov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+456,Pavel Gavrilin,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+457,Konstantin Komardinkin,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+458,Aleksandr Bilyukin,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+459,Nikolai Bykasov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+460,Semyon Kratinov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+461,Leonty Slizen,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+462,Leonid Bykovets,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+463,Mikhail Kuznetsov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+464,Ivan Kleshchyov,União Soviética,VVS,23.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+465,Viktor Dudnichenko,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+466,Anatoly Konstantinov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+467,Viktor Merenkov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+468,Vitaly Mikryukov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+469,Nikolai Miokov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+470,Konstantin Sukhov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+471,Vladimir Yegorovich,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+472,Ilya Andrianov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+473,Pyotr Nikonorov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+474,Leonid Ryzhy,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+475,Fyodor Shikunov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+476,Dmitry Ashchaulov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+477,Sergey Burnazyan,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+478,Aleksandr Karasyov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+479,Nikolai Lavitsky,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+480,Nikolai Pinchuk,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+481,Nikolai Naydyonov,União Soviética,VVS,22.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+482,Sergey Ivanov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+483,Nikolai Leonov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+484,Vyacheslav Sirotin,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+485,Aleksandr Vybornov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+486,Aleksandr Karaev,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+487,Sergey Lazarev,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+488,Andrey Fedotov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+489,Vasily Ziborov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+490,Oleg Smirnov,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+491,Andrey Girich,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+492,Chichiko Bendeliani,União Soviética,VVS,21.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+493,Nikolai Belousov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+494,Dmitry Gudkov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+495,Adil Guliyev,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+496,Vasily Mukhin,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+497,Yakov Ovodov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+498,Vladimir Semyonov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+499,Ivan Somov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+500,Aleksandr Shishkin,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+501,Ivan Vitkovsky,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+502,Ivan Vishnyakov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+503,Aleksandr Voronko,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+504,Pyotr Yakubovsky,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+505,Boris Zhigulyonkov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+506,Pyotr Bazanov,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+507,Nikolai Shutt,União Soviética,VVS,20.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+508,Alim Baisultanov,União Soviética,VVS,18.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+509,Georgy Baevsky,União Soviética,VVS,19.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+510,Daniil Barchenkov,União Soviética,VVS,19.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+511,Georgy Kuzmin,União Soviética,VVS,19.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+512,Shamil Abdrashitov,União Soviética,VVS,18.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+513,Alexander Kabiskoy,União Soviética,VVS,17.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+514,Ivan Kuzmichyov,União Soviética,VVS,17.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+515,Semyon Bychkov,União Soviética,VVS,15.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+516,Luka Muravitsky,União Soviética,VVS,15.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+517,Stepan Bakhaev,União Soviética,VVS,15.0,Yakovlev Yak-1/3/7/9 ou La-5/7,Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+518,Lydia Litvyak,União Soviética,VVS,8.0,Yak-1 (Rosa de Stalingrado),Frente Oriental,1941-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_Soviet_Union,6
+519,"Aitken, Sir John William Maxwell (""Max"")",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+520,"Allan, Ian",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+521,"Allard, Geoffrey (""Sammy"")",Reino Unido,Royal Air Force (RAF),24.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+522,"Atkinson, Harold Derrick",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+523,"Bader, Douglas",Reino Unido,Royal Air Force (RAF),22.0,Hawker Hurricane / Spitfire,Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+524,"Baldwin, John Robert (""Johnny"")",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+525,"Barker, Frederick James",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+526,"Bartley, Anthony Charles",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+527,"Bayne, Alfred William Alexander",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+528,"Bazin, James Michael",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+529,"Beamish, Victor",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+530,"Bennions, George Herman (""Ben"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+531,"Benson, James Gillies",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+532,"Berry, Ronald (""Ras"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+533,"Bisdee, John",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+534,"Boddington, Michael Christopher B.",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+535,"Bodie, Crelin Arthur W. (""Bogle"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+536,"Boyd, Adrian Hope (""Ginger"")",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+537,"Boyd, Archibald Douglas McNeill (""Archie"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+538,"Boyd, Robert Finlay",Reino Unido,Royal Air Force (RAF),21.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+539,"Braham, John Randall Daniel (""Bob"")",Reino Unido,Royal Air Force (RAF),29.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+540,"Broadhurst, Harry",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+541,"Brothers, Peter Malam (""Pete"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+542,"Burbridge, Bransome Arthur (""Branse"")",Reino Unido,Royal Air Force (RAF),21.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+543,"Carey, Frank Reginald",Reino Unido,Royal Air Force (RAF),28.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+544,"Casbolt, Charles Edward (""Cas"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+545,"Clowes, Arthur Victor (""Taffy"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+546,"Clyde, William Pancoast (""Billy"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+547,"Connors, Stanley Dudley Pierce",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+548,"Cooke, Nicholas Gresham (""Lanky"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+549,"Cork, Richard John (""Dickie"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+550,"Cotes-Preedy, Digby Vawdre Cartmel (""Digger"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+551,"Cottingham, Leonard",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+552,"Cox, Graham James",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+553,"Creed, Ernest William Durham (""Bill"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+554,"Crew, Edward Dixon",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+555,"Cross, Robert Walter",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+556,"Crossley, Michael Nicholson",Reino Unido,Royal Air Force (RAF),22.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+557,"Cruikshank, A. R.",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+558,"Cullen, Richard Nigel (""Ape"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+559,"Cunningham, John (""Cats Eyes"")",Reino Unido,Royal Air Force (RAF),20.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+560,"Currant, Christopher Frederick (""Bunny"")",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+561,"Czernin, Count Manfred Beckett",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+562,"Dalton-Morgan, Thomas Frederick",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+563,"Daniels, Stephen Walter (""Dan"")",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+564,"Daniel, Edward Gough Esq. (""Tubby"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+565,"David, William Dennis",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+566,"Davis, Charles Trevor",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+567,"Davison, Michael Metcalfe",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+568,"Dobie, Ian Alexander",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+569,"Dodds, James (""Hamish"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+570,"Doe, Robert Francis Thomas",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+571,"Downing, Alwyn Berriman (""Berry"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+572,"Drake, Billy",Reino Unido,Royal Air Force (RAF),22.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+573,"Dryland, Rodney 'Rod'",Reino Unido,Royal Air Force (RAF),20.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+574,"Duke, Neville Frederick",Reino Unido,Royal Air Force (RAF),29.0,Supermarine Spitfire / Curtiss Tomahawk,Mediterrâneo / Itália,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+575,Duncan-Smith. Wilfred George Gerald,Reino Unido,Royal Air Force (RAF),19.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+576,"Dundas, Hugh Spencer Lisle (""Cocky"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+577,"Dundas, John Charles",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+578,"Dutton, Roy Gilbert",Reino Unido,Royal Air Force (RAF),19.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+579,"Dymond, William Lawrence",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+580,"Eckford, Alan Francis",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+581,"Edge, Gerald Richmond",Reino Unido,Royal Air Force (RAF),20.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+582,"Edwards, Malcolm Finney (""Eddie"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+583,"Ellis, John",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+584,"Evans, Charles L. G. (""Crash"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+585,"Eyre, Anthony",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+586,"Ferriss, Henry Michael",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+587,"Finucane, Brendan Eamon Fergus (""Paddy"")",Reino Unido,Royal Air Force (RAF),32.0,Supermarine Spitfire,Batalha da Inglaterra / ETO,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+588,"Fokes, Ronald Henry (""Ronnie"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+589,"Franklin, William Henry",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+590,"Fras(i)er, Joseph Frederick",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+591,"Freeborn, John Connell",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+592,"Gardner, Peter Melvill",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+593,"Gardner, Richard Exton (""Jimmy"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+594,"Garton, Geoffrey William",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+595,"Genders, George E. Clifford (""Jumbo"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+596,"Gillies, Kenneth McLeod",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+597,"Gilroy, George Kemp (""Sheep"")",Reino Unido,Royal Air Force (RAF),24.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+598,"Gleed, Ian Richard",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+599,"Gloster, Michael John",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+600,"Godfrey, Donald Ling",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+601,"Goodman, George Ernest (""Randy"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+602,"Gracie, Edward John (""Jumbo"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+603,"Green, Charles Patrick (""Paddy"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+604,"Grier, Thomas",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+605,"Griffiths, Glyn",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+606,"Haines, Leonard Archibald",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+607,"Hallowes, Herbert James L. (""Darkie"")",Reino Unido,Royal Air Force (RAF),19.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+608,"Hamlyn, Ronald Fairfax",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+609,"Hanbury, Osgood Villiers",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+610,"Hanks, Peter Prosser",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+611,"Hards, Maurice Sydney",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+612,"Harries, Raymond Hiley",Reino Unido,Royal Air Force (RAF),24.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+613,"Hartley, James",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+614,"Hay, Ronald Cuthbert",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+615,"Head, Norman Sidney",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+616,"Hewett, Edward William F. (""Ted"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+617,"Higginson, Frederick William (""Taffy"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+618,"Hodgkinson, Arthur John (""Hodge"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+619,"Hogg, Graham Angus",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+620,"Howell, Frank Jonathan",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+621,"Howes, Harold Norman (""Harry"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+622,"Hughes, Fredrick Desmond",Reino Unido,Royal Air Force (RAF),19.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+623,"Hunter, Philip Algernon",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+624,"Hussey, Roy Jack Hubert",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+625,"Ibbotson, Desmond",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+626,"Johnson, Herbert Dennis",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+627,"Johnson, James Edgar (""Johnnie"")",Reino Unido,Royal Air Force (RAF),38.0,Supermarine Spitfire,Europa Ocidental,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+628,"Johnson, Stanley B.",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+629,"Kayll, Joseph Robert (""Joe"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+630,"Kilmartin, John Ignatus (""Killy"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+631,"King, Frederick Harry",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+632,"Kingaby, Donald Ernest",Reino Unido,Royal Air Force (RAF),23.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+633,"Kingcome, Charles Brian Fabris",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+634,"Lacey, James Harry (""Ginger"")",Reino Unido,Royal Air Force (RAF),28.0,Hawker Hurricane,Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+635,"Lapsley, John Hugh",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+636,"Lee, Richard Hugh Antony (""Dickie"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+637,"Lefevre, Peter William (""Pip"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+638,"Libbert, Albert",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+639,"Lippett, Albert",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+640,"Llewellyn, Reginald Thomas",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+641,"Lock, Eric Stanley (""Sawn Off Lockie"")",Reino Unido,Royal Air Force (RAF),26.0,Supermarine Spitfire,Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+642,"Lovell, Anthony Desmond Joseph",Reino Unido,Royal Air Force (RAF),22.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+643,"MacDonell, Aeneas Ranald Donald",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+644,"McDowall, Andrew",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+645,"McGrath, John Keswick Ulick Blake",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+646,"McKay, Donald Alistair Stewart",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+647,"McKellar, Archie",Reino Unido,Royal Air Force (RAF),20.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+648,"Mackenzie, Kenneth",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+649,"MacLachlan, James Archibald Findlay",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+650,"McMullen, Desmond Annesley Peter",Reino Unido,Royal Air Force (RAF),22.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+651,"Malan, Adolf Gysbert (""Sailor"")",Reino Unido,Royal Air Force (RAF),27.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+652,"Marrs, Eric Simcox (""Boy"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+653,"Marshall, Alfred Ernest",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+654,"Mason, Ernest Mitchelson (""Imshi"")",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+655,"Mathews, John Owen (""Jimmy"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+656,"Miller, Wilfred Handel (""Andy"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+657,"Millington, William Henry",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+658,"Milne, Richard Maxwell",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+659,"Mortimer-Rose, Edward Brian",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+660,"Morton, James Storrs (""Black"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+661,"Mould, Peter William Olbert (""Boy"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+662,"Mungo-Park, John Colin",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+663,"Musgrave, John Gothorp",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+664,"Nash, Peter Alfred",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+665,"Neil, Thomas Francis (""Ginger"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+666,"Newbery, Richard Alfred",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+667,"Nowell, Gareth Leofric",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+668,"O'Meara, James Joseph (""Orange"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+669,"Orr, Stanley Gordon",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+670,"Orton, Newell (""Fanny"")",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+671,"Owen, Alan Joseph (""Red"")",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+672,"Oxspring, Robert Wardlow",Reino Unido,Royal Air Force (RAF),21.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+673,"Page, Alan Geoffrey",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+674,"Palliser, George Charles Calder",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+675,"Parker-Rees, Alastair",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+676,"Powell, Robin Peter Reginald",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+677,"Proctor, John Ernest",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+678,"Rabagliati, Alexander Coultate (""Sandy"")",Reino Unido,Royal Air Force (RAF),21.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+679,"Rankin, James E. (""Jamie"")",Reino Unido,Royal Air Force (RAF),22.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+680,"Rayner, Roderick Malachi Seaborne",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+681,"Read, James Alfred Avory (""Jasper"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+682,"Reeves, Nevil Everard",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+683,"Richey, Paul Henry Mills",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+684,"Robb, Robert L. T. (""Jackson"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+685,"Robertson, Frederick Neal",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+686,"Robertson, John",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+687,"Robinson, Michael Lister (""Mike"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+688,"Rolls, William Thomas Edward",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+689,"Rose, Maurice James Alexander",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+690,"Samouelle, Charles James (""Sammy"")",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+691,"Sanders, James Gilbert",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+692,"Schade, Patrick Alfred (""Paddy"")",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+693,"Scoular, John Evelyn",Reino Unido,Royal Air Force (RAF),18.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+694,"Sewell, Alfred Jack (""Jackie"")",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+695,"Shaw, Harry (""Artie"")",Reino Unido,Royal Air Force (RAF),16.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+696,"Shepherd, John Bean",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+697,"Simpson, John William Charles",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+698,"Sizer, Wilfred Max (""Wilf"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+699,"Skinner, Wilfred Malcom",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+700,"Slade-Betts, Kenneth Gordon",Reino Unido,Royal Air Force (RAF),20.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+701,"Soper, Francis Joseph",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+702,"Spencer, Terence (""Terry"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+703,"Steere, Harry",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+704,"Stephens, Maurice Michael (""Mike"")",Reino Unido,Royal Air Force (RAF),23.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+705,"Stephenson, Leslie",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+706,"Stevens, Richard Playne",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+707,"Stones, Donald William A. (""Dimsie"")",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+708,"Storrar, James Eric (""Jas"")",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+709,"Taylor, John Stuart",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+710,"Thompson, John Marlow",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+711,"Thorn(e), Edward Rowland",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+712,"Topham, E.",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+713,"Topham, John K. Groves",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+714,"Townsend, Peter Wooldridge",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+715,"Tuck, Robert Roland Stanford",Reino Unido,Royal Air Force (RAF),29.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+716,"Turner, Percival Stanley",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+717,"Unwin, George Cecil (""Grumpy"")",Reino Unido,Royal Air Force (RAF),15.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+718,"Upton, Hamilton Charles",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+719,"Vale, William (""Cherry"")",Reino Unido,Royal Air Force (RAF),33.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+720,"Vassiliades, Basilios Michael (""Basil"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+721,"Villa, John Wolferstan (""Pancho"")",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+722,"Wade, Trevor Sidney (""Wimpy"")",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+723,"Walmsley, Harold Edward",Reino Unido,Royal Air Force (RAF),11.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+724,"Webster, John Terence",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+725,"Wedgwood, Jefferson",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+726,"White, Harold",Reino Unido,Royal Air Force (RAF),12.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+727,"Wickham, Peter Reginald Whalley",Reino Unido,Royal Air Force (RAF),17.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+728,"Willson, John Ellis",Reino Unido,Royal Air Force (RAF),10.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+729,"Woods-Scawen, Patrick Philip",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+730,"Wright, Allan Richard",Reino Unido,Royal Air Force (RAF),14.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+731,"Young, Michael Hugh",Reino Unido,Royal Air Force (RAF),13.0,Supermarine Spitfire / Hawker Hurricane,Europa Ocidental / Batalha da Inglaterra,1939-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_the_United_Kingdom,5
+732,Kenichi Abe (阿部健市),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+733,Takahide Aioi (相生高秀),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+734,Sadaaki Akamatsu (赤松貞明),Japão,IJN (Marinha Imperial),27.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+735,Satoru Anabuki (穴吹智),Japão,IJA (Exército Imperial),39.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+736,Katsumi Anma (安間 克巳),Japão,IJA (Exército Imperial),27.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+737,Yoshitugu Aramaki (荒蒔 義次),Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+738,Yoshisuke Arita (有田 義助),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+739,Mitsuzo Asai,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+740,Jiro Asano (浅野 二郎),Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+741,Tomita Atake (阿武 富太),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+742,Takeo Banno (阪野 隆雄),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+743,Kisaji Beppu,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+744,Jirō Chōno,Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+745,Yuichi Ema (江馬 友一),Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+746,Masuaki Endo (遠藤 桝秋),Japão,IJN (Marinha Imperial),14.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+747,Sachio Endo (遠藤 幸男),Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+748,Toyoki Eto (江藤 豊樹),Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+749,Iyōzō Fujita (藤田怡与蔵),Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+750,Kihei Fujiwara (藤原 喜平),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+751,Sumio Fukuda (福田 澄夫),Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+752,Yoshio Fukui,Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+753,Shigeo Fukumoto (福本 繁夫),Japão,IJN (Marinha Imperial),72.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+754,Yonesuke Fukuyama,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+755,Goro Furugori (古郡 吾郎),Japão,IJA (Exército Imperial),25.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+756,Haruyoshi Furukawa (古川 治良),Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+757,Matsuo Hagiri (羽切 松雄),Japão,IJN (Marinha Imperial),13.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+758,Tomio Hanada (花田 富男),Japão,IJA (Exército Imperial),25.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+759,Watari Handa,Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+760,Iwataro Hazawa (羽沢 岩太郎),Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+761,Kaname Harada (原田要),Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+762,Kichigoro Haraguchi (原口 吉五郎),Japão,IJA (Exército Imperial),24.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+763,Yoshiro Hashiguchi (橋口 嘉郎),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+764,Kazuo Hattori (服部 一夫),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+765,Sakuji Hayashi (林 作次),Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+766,Takeomi Hayashi (林 武臣),Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+767,Yoshishige Hayashi (林 喜重),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+768,Nobuji Negishi (根岸 延次),Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+769,Hatsuo Hidaka,Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+770,Yoshimi Hidaka (日高 義巳),Japão,IJN (Marinha Imperial),20.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+771,Ichiro Higashiyama (東山 市郎),Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+772,Yohei Hinoki (ja:檜與平),Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+773,Tomio Hirohata (広畑 富男),Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+774,Yoshio Hirose (広瀬 吉雄),Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+775,Minoru Honda (本田 稔),Japão,IJN (Marinha Imperial),17.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+776,Toshiaki Honda (本田 敏秋),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+777,Mitsuo Hori (堀 光雄),Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+778,Isamu Hosono (細野 勇),Japão,IJA (Exército Imperial),26.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+779,Chuichi Ichikawa (市川 忠一),Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+780,Matao Ichioka (市岡 又夫),Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+781,Fusata Iida (飯田 房太),Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+782,Masao Iizuka (飯塚 雅夫),Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+783,Tomesaku Igarashi (五十嵐 留作),Japão,IJA (Exército Imperial),20.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+784,Fumisuke Ikuno (生野 文介),Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+785,Hideaki Inayama (稲山 英明),Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+786,Misao Inoue (井上 操),Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+787,Teigo Ishida (石田 真吾),Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+788,Susumu Ishihara (石原 進),Japão,IJN (Marinha Imperial),16.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+789,Shizuo Ishii (石井 静夫),Japão,IJN (Marinha Imperial),29.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+790,Isamu Ishii (石井 勇),Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+791,Seiji Ishikawa (石川 清治),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+792,Tadashi Ishikawa (石川 正),Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+793,Kanshi Ishikawa (石川 寛志),Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+794,Chitoshi Isozaki,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+795,Ishizuka Tokuyasu,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+796,Kiyoshi Ito (伊藤 清),Japão,IJN (Marinha Imperial),18.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+797,Fujitaro Ito (伊藤 藤太郎),Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+798,Naoyuki Ito (伊藤 直之),Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+799,Susumu Ito,Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+800,Tsutomu Iwai (岩井 勉),Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+801,Yoshio Iwaki (岩城 芳雄),Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+802,Tetsuzō Iwamoto (岩本 徹三),Japão,IJN (Marinha Imperial),80.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+803,Iwahashi Jozo,Japão,IJA (Exército Imperial),20.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+804,Hideo Izumi (和泉 秀雄),Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+805,Ryotaro Jobo (ja:上坊良太郎),Japão,IJA (Exército Imperial),30.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+806,Susumu Kajinami,Japão,IJA (Exército Imperial),24.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+807,Enji Kakimoto,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+808,Morichiki Kamae,Japão,IJA (Exército Imperial),32.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+809,Teizo Kanamaru,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+810,Sumi Kamito,Japão,IJA (Exército Imperial),40.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+811,Takeo Kanamaru,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+812,Nobuo Kanazawa,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+813,Masao Kanbara,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+814,Saiji Kanda,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+815,Tadashi Kaneko,Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+816,Naoshi Kanno,Japão,IJA (Exército Imperial),25.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+817,Saiji Kani,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+818,Tomkazu Kasai,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+819,Isamu Kashiide (ja:樫出勇),Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+820,Shirotaro Kashima,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+821,Kanichi Kashimura,Japão,IJN (Marinha Imperial),12.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+822,Katsue Kato,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+823,Kenji Kato,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+824,Kunimichi Kato,Japão,IJN (Marinha Imperial),16.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+825,Tateo Katō (加藤建夫),Japão,IJA (Exército Imperial),18.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+826,Kiyomi Katsuki (ja:甲木清実),Japão,IJN (Marinha Imperial),16.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+827,Kosuke Kawahara,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+828,Akira Kawakita,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+829,Koki Kawamoto,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+830,Ichiro Kawamura (河村一郎),Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+831,Masajiro Kawato,Japão,IJA (Exército Imperial),18.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+832,Tetsuo Kikuchi,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+833,Takaji Kimura,Japão,IJA (Exército Imperial),26.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+834,Sadamitsu Kimura,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+835,Katsuaki Kira,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+836,Saburo Kitahata,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+837,Teruhiko Kobayashi,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+838,Hohei Kobayashi,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+839,Yoshinao Kodaira,Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+840,Sada Koga,Japão,IJA (Exército Imperial),31.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+841,Kiyoto Koga,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+842,Fujikazu Koizumi,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+843,Shizuo Kojima,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+844,Takeichi Kokubun,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+845,Sadamu Komachi,Japão,IJN (Marinha Imperial),18.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+846,Masaichi Kondō,Japão,IJN (Marinha Imperial),13.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+847,Kensui Kono,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+848,Kotaro Koyae,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+849,Osamu Kudō,Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+850,Shigetoshi Kudō,Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+851,Juzo Kuramoto,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+852,Yasuhiko Kuroe,Japão,IJA (Exército Imperial),49.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+853,Toshio Kuroiwa,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+854,Tameyoshi Kuroki,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+855,Seiichi Kurosawa,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+856,Shiro Kurotori (ja:黒鳥四朗),Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+857,Yoshiro Kuwabara,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+858,Hideo Maeda,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+859,Koichi Magara,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+860,Akio Matsuba,Japão,IJN (Marinha Imperial),16.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+861,Jiro Matsuda,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+862,Masao Masuyama,Japão,IJA (Exército Imperial),17.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+863,Morio Matsui,Japão,IJA (Exército Imperial),21.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+864,Susumu Matsuki,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+865,Momoto Matsumura,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+866,Hidenori Matsunaga,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+867,Eitoku Matsunaga,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+868,Kagemitsu Matsuo,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+869,Toshio Matsuura,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+870,Yoshimi Minami,Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+871,Yoshijiro Minegishi,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+872,Goro Miyamoto,Japão,IJA (Exército Imperial),26.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+873,Zenjiro Miyano,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+874,Masahiro Mitsuda,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+875,Kazunori Miyabe,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+876,Hideo Miyabe,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+877,Isamu Miyazaki,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+878,Gitaro Miyazaki,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+879,Isamu Mochizuki,Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+880,Mitsugu Mori,Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+881,Hideo Morinio,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+882,Yutaka Morioka,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+883,Toyoo Moriura,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+884,Noboru Mune,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+885,Kazuo Muranaka,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+886,Kaneyoshi Muto,Japão,IJN (Marinha Imperial),23.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+887,Yoshikazu Nagahama,Japão,IJN (Marinha Imperial),10.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+888,Kiichi Nagano,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+889,Yoshimitsu Naka,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+890,Yoshihiko Nakada,Japão,IJA (Exército Imperial),45.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+891,Kenji Nakagawa,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+892,Tadashi Nakajima,Japão,IJA (Exército Imperial),75.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+893,Bunkichi Nakajima,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+894,Kunimori Nakakariya,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+895,Wataru Nakamichi,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+896,Saburo Nakamura,Japão,IJA (Exército Imperial),20.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+897,Yoshio Nakamura,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+898,Matsumi Nakano,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+899,Katsujiro Nakano,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+900,Tomoji Nakano,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+901,Masayuki Nakase,Japão,IJA (Exército Imperial),18.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+902,Yoshiichi Nakaya,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+903,Shigeru Nakazaki,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+904,Kiyoshi Namai,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+905,Mochifumi Nangō,Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+906,Shigeo Nango,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+907,Yashiro Nashiguchi,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+908,Nobuji Negishi,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+909,? Nishikyo,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+910,Hannoshin Nishio,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+911,Shigetsune Nishioka,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+912,Masaharu Nishiwaki,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+913,Hiroyoshi Nishizawa (西沢広義),Japão,IJN (Marinha Imperial),87.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+914,Yoshinori Noguchi,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+915,Takeshi Noguchi,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+916,Akiyoshi Nomura,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+917,Tsutae Obara,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+918,Kiichi (Ki-ichi) Oda,Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+919,Noritsura Odaka,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+920,Yojiro Ofusa,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+921,Koichi Ogata,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+922,Naoyuki Ogata,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+923,Makoto Ogawa,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+924,Nobuo Ogiya (ja:荻谷信男),Japão,IJA (Exército Imperial),24.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+925,Mitsuo Ogura,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+926,Ryoji Ohara,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+927,Hideo Oishi,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+928,Yoshio Oishi,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+929,Kenji Okabe,Japão,IJN (Marinha Imperial),15.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+930,Takashi Okamoto,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+931,Juzo Okamoto,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+932,Hiroshi Okano,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+933,Yoshio Oki,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+934,Misao Okubu,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+935,Takeo Okumura,Japão,IJN (Marinha Imperial),50.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+936,Shokichi Omori,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+937,Shigetaka Ōmori,Japão,IJN (Marinha Imperial),13.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+938,Hiroshi Onazaki,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+939,Akira Onozaki,Japão,IJA (Exército Imperial),28.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+940,Megumu Ono,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+941,Satoru Ono,Japão,IJN (Marinha Imperial),5.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+942,Takeyoshi Ono,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+943,Takashi Oshibuchi,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+944,Toshio Ota (太田敏夫),Japão,IJN (Marinha Imperial),34.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+945,Kyushiro Otake,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+946,Nakakazu Ozaki (ja:尾崎中和),Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+947,Yukiharu Ozeki,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+948,Shogo Saito,Japão,IJA (Exército Imperial),26.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+949,Chiyoshi Saito,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+950,Saburo Saito,Japão,IJA (Exército Imperial),18.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+951,Toshio Sakagawa,Japão,IJA (Exército Imperial),49.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+952,Saburō Sakai (ja:坂井三郎),Japão,IJN (Marinha Imperial),28.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+953,Iori Sakai,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+954,Takao Sakano,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+955,Junichi Sasai (ja:笹井醇一),Japão,IJA (Exército Imperial),26.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+956,Tomokazu Sasai,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+957,Yoshiichi Sasaki,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+958,Isamu Sasaki,Japão,IJA (Exército Imperial),38.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+959,Masao Sasakibara,Japão,IJN (Marinha Imperial),12.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+960,Hitoshi Sato,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+961,Gonnoshin Sato,Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+962,Mitsugu Sawada,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+963,Eiji Seino,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+964,Hiroshi Sekiguchi,Japão,IJA (Exército Imperial),7.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+965,Kiyoshi Sekiya,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+966,Hiroshi Shibagaki,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+967,Rikio (Rikia) Shibata,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+968,Sekizen Shibayama,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+969,Shigeru Shibukawa,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+970,Yoshio Shiga,Japão,IJN (Marinha Imperial),6.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+971,Masami Shiga,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+972,Yasuhiro Shigematsu,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+973,Katsuma Shigemi,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+974,Kenji Shimada,Japão,IJA (Exército Imperial),27.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+975,Masaaki Shimakawa,Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+976,Kiyoshi Shimizu,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+977,Kazuo Shimizu,Japão,IJA (Exército Imperial),18.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+978,Takeshi Shimizu,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+979,Yukio Shimokawa,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+980,Hiromichi Shinohara (ja:篠原弘道),Japão,IJA (Exército Imperial),58.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+981,Toshio Shiozura,Japão,IJA (Exército Imperial),20.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+982,Yoshijiro Shirahama,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+983,Nagao Shirai,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+984,Toshihisa Shirakawa,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+985,Shoichi Sugita (ja:杉田庄一),Japão,IJA (Exército Imperial),70.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+986,Minoru Suzuki,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+987,Kiyonobu Suzuki,Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+988,Michiho Takarada,Japão,IJN (Marinha Imperial),7.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+989,Kazuo Tsunoda,Japão,IJN (Marinha Imperial),9.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+990,Minoru Uchida,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+991,Sadao	Uehara,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+992,Kazushi 'Popo' Uto (ja:羽藤一志),Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+993,Yoshio Wajima,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+994,Yukiyoshi Wakamutsu (ja:若松幸禧),Japão,IJA (Exército Imperial),20.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+995,Hideo Watanabe,Japão,IJA (Exército Imperial),16.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+996,Watanabe,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+997,Bunichi Yamaguchi,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+998,Sadao Yamaguchi,Japão,IJA (Exército Imperial),12.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+999,Fumikazu Yamagushi,Japão,IJA (Exército Imperial),19.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1000,Akira Yamamoto,Japão,IJN (Marinha Imperial),13.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1001,Ichirō Yamamoto,Japão,IJN (Marinha Imperial),11.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1002,Tomezo Yamamoto,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1003,Tadao Yamanaka,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1004,Koshiro Yamashita,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1005,Sahei Yamashita,Japão,IJA (Exército Imperial),13.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1006,Mitsuo Yamato,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1007,Ichirobei Yamazaki,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1008,Kenji Yanagiya,Japão,IJN (Marinha Imperial),8.0,Mitsubishi A6M Zero,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1009,Shigeru Yano,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1010,Kozaburo Yasui,Japão,IJA (Exército Imperial),11.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1011,Tamotsu Yokoyama (横山保),Japão,IJA (Exército Imperial),5.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1012,Tadayoshi Yonekawa,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1013,Katsuyoshi Yoshida,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1014,Mototsuna Yoshida,Japão,IJA (Exército Imperial),14.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1015,Yoshio Yoshida,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1016,Hiroji Yoshihara,Japão,IJA (Exército Imperial),8.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1017,Keisaku Yoshimura,Japão,IJA (Exército Imperial),10.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1018,Satoshi Yoshino,Japão,IJA (Exército Imperial),15.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1019,Yoshitaro Yoshioka,Japão,IJA (Exército Imperial),6.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2
+1020,Tokushige Yoshizawa,Japão,IJA (Exército Imperial),9.0,Nakajima Ki-43 / Ki-84,Teatro do Pacífico,1937-1945,https://en.wikipedia.org/wiki/List_of_World_War_II_aces_from_Japan,2

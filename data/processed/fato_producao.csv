@@ -1,0 +1,62 @@
+﻿id_fato_producao,id_pais,id_data,teatro,unidades_produzidas,sorties,perdas_combate,abates_reivindicados,fonte
+1,4,19420101,Europa (ETO),,2453.0,55.0,169.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+2,4,19420101,Mediterrâneo (MTO),,7296.0,86.0,158.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+3,4,19420101,Sudoeste do Pacífico (FEAF),,14311.0,276.0,518.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+4,4,19420101,Pacífico Central (POA),,130.0,13.0,,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+5,4,19420101,China-Birmânia-Índia (CBI),,1341.0,35.0,53.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+6,4,19420101,Alasca,,1157.0,17.0,37.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+7,4,19430101,Europa (ETO),,63929.0,1261.0,3865.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+8,4,19430101,Mediterrâneo (MTO),,169594.0,1767.0,3740.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+9,4,19430101,Sudoeste do Pacífico (FEAF),,103147.0,539.0,2466.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+10,4,19430101,Pacífico Central (POA),,1413.0,25.0,96.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+11,4,19430101,China-Birmânia-Índia (CBI),,23151.0,217.0,636.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+12,4,19430101,Alasca,,4706.0,38.0,34.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+13,4,19440101,Europa (ETO),,655289.0,7749.0,10425.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+14,4,19440101,Mediterrâneo (MTO),,356812.0,3869.0,5239.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+15,4,19440101,Sudoeste do Pacífico (FEAF),,163397.0,910.0,2518.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+16,4,19440101,Pacífico Central (POA),,26364.0,116.0,226.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+17,4,19440101,China-Birmânia-Índia (CBI),,78999.0,532.0,772.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+18,4,19440101,Alasca,,815.0,18.0,8.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+19,4,19440101,20th Air Force (B-29),,2519.0,95.0,254.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+20,4,19450101,Europa (ETO),,312381.0,2622.0,5960.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+21,4,19450101,Mediterrâneo (MTO),,125811.0,1009.0,291.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+22,4,19450101,Sudoeste do Pacífico (FEAF),,134912.0,769.0,416.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+23,4,19450101,Pacífico Central (POA),,31194.0,224.0,472.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+24,4,19450101,China-Birmânia-Índia (CBI),,44538.0,292.0,361.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+25,4,19450101,Alasca,,640.0,15.0,6.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+26,4,19450101,20th Air Force (B-29),,36289.0,399.0,971.0,"US Army Air Forces Statistical Digest: World War II (Dec 1945), Tables 118, 158, 166"
+27,4,19390101,Total Nacional,5856.0,,,,US War Production Board; AAF Statistical Digest Table 74
+28,4,19400101,Total Nacional,12804.0,,,,US War Production Board; AAF Statistical Digest Table 74
+29,4,19410101,Total Nacional,26277.0,,,,US War Production Board; AAF Statistical Digest Table 74
+30,4,19420101,Total Nacional,47836.0,,,,US War Production Board; AAF Statistical Digest Table 74
+31,4,19430101,Total Nacional,85898.0,,,,US War Production Board; AAF Statistical Digest Table 74
+32,4,19440101,Total Nacional,96318.0,,,,US War Production Board; AAF Statistical Digest Table 74
+33,4,19450101,Total Nacional,49761.0,,,,US War Production Board; AAF Statistical Digest Table 74
+34,1,19390101,Total Nacional,8295.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+35,1,19400101,Total Nacional,10826.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+36,1,19410101,Total Nacional,11776.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+37,1,19420101,Total Nacional,15409.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+38,1,19430101,Total Nacional,24807.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+39,1,19440101,Total Nacional,39807.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+40,1,19450101,Total Nacional,7540.0,,,,Reich Ministry of Armaments and War Production; USSBS German Aircraft Industry Report
+41,5,19390101,Total Nacional,7940.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+42,5,19400101,Total Nacional,15049.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+43,5,19410101,Total Nacional,20094.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+44,5,19420101,Total Nacional,23672.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+45,5,19430101,Total Nacional,26263.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+46,5,19440101,Total Nacional,26461.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+47,5,19450101,Total Nacional,12070.0,,,,UK Ministry of Aircraft Production (MAP) Statistical Summaries
+48,6,19390101,Total Nacional,10382.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+49,6,19400101,Total Nacional,10565.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+50,6,19410101,Total Nacional,15735.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+51,6,19420101,Total Nacional,25436.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+52,6,19430101,Total Nacional,34845.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+53,6,19440101,Total Nacional,40246.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+54,6,19450101,Total Nacional,20052.0,,,,Soviet State Planning Committee (Gosplan); V.B. Shavrov 'History of Aircraft Construction in USSR'
+55,2,19390101,Total Nacional,4467.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+56,2,19400101,Total Nacional,4768.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+57,2,19410101,Total Nacional,5088.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+58,2,19420101,Total Nacional,8861.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+59,2,19430101,Total Nacional,16693.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+60,2,19440101,Total Nacional,28180.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'
+61,2,19450101,Total Nacional,11066.0,,,,USSBS Report No. 15 'The Japanese Aircraft Industry'

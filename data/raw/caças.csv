@@ -1,0 +1,84 @@
+﻿modelo,variante,pais,ano_entrada_servico,velocidade_max_kmh,teto_operacional_m,alcance_km,armamento,unidades_produzidas,fonte
+Supermarine Spitfire,Spitfire Mk I,Reino Unido,1938,582,10485,680,8x metralhadoras Browning .303 (7.7 mm),1566,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Supermarine Spitfire,Spitfire Mk II,Reino Unido,1940,595,10850,680,8x metralhadoras Browning .303 (Mk IIa) ou 2x canhões Hispano 20mm + 4x Browning .303 (Mk IIb),921,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Supermarine Spitfire,Spitfire Mk Vb,Reino Unido,1941,605,11125,760,2x canhões Hispano 20mm + 4x metralhadoras Browning .303,3923,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Supermarine Spitfire,Spitfire Mk IX,Reino Unido,1942,657,13100,700,2x canhões Hispano 20mm + 2x metralhadoras .50 cal (Asa E) ou 4x .303,5656,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Supermarine Spitfire,Spitfire Mk XIV,Reino Unido,1944,721,13560,740,2x canhões Hispano 20mm + 2x metralhadoras Browning .50 cal (Motor Griffon 65),957,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Supermarine Spitfire,Spitfire Mk 21,Reino Unido,1945,731,13100,930,4x canhões Hispano 20mm,120,https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications
+Hawker Hurricane,Hurricane Mk I,Reino Unido,1937,547,10970,965,8x metralhadoras Browning .303 (7.7 mm),3774,https://en.wikipedia.org/wiki/Hawker_Hurricane
+Hawker Hurricane,Hurricane Mk IIb,Reino Unido,1940,550,11125,756,12x metralhadoras Browning .303 + bombas até 500 lb,3280,https://en.wikipedia.org/wiki/Hawker_Hurricane
+Hawker Hurricane,Hurricane Mk IIc,Reino Unido,1941,546,10850,740,4x canhões Hispano 20mm,4711,https://en.wikipedia.org/wiki/Hawker_Hurricane
+Hawker Hurricane,Hurricane Mk IV,Reino Unido,1943,531,9000,780,2x Browning .303 + 8x foguetes RP-3 ou 2x canhões anti-tanque 40mm Vickers S,524,https://en.wikipedia.org/wiki/Hawker_Hurricane
+Hawker Typhoon,Typhoon Mk Ib,Reino Unido,1942,663,10730,821,4x canhões Hispano 20mm + 8x foguetes RP-3 ou 2.000 lb bombas,3317,https://en.wikipedia.org/wiki/Hawker_Typhoon
+Hawker Tempest,Tempest Mk V,Reino Unido,1944,700,11125,1190,4x canhões Hispano 20mm (Caçador de bombas V-1 e Me 262),1401,https://en.wikipedia.org/wiki/Hawker_Tempest
+de Havilland Mosquito,Mosquito NF Mk II,Reino Unido,1942,610,10500,1900,4x canhões 20mm + 4x metralhadoras .303 + Radar AI Mk IV/V,466,https://en.wikipedia.org/wiki/De_Havilland_Mosquito
+de Havilland Mosquito,Mosquito FB Mk VI,Reino Unido,1943,612,10000,2100,4x canhões 20mm + 4x metralhadoras .303 + até 2.000 lb bombas ou 8x RP-3,2298,https://en.wikipedia.org/wiki/De_Havilland_Mosquito
+Messerschmitt Bf 109,Bf 109B-1,Alemanha,1937,470,9300,450,3x metralhadoras MG 17 de 7.92 mm (Guerra Civil Espanhola),341,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109E-3,Alemanha,1939,560,10500,660,2x canhões MG FF 20mm + 2x metralhadoras MG 17 de 7.92mm,1876,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109E-4,Alemanha,1940,570,10500,660,2x canhões MG FF/M 20mm (munição Minengeschoß) + 2x MG 17,561,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109F-2,Alemanha,1941,600,11000,665,1x canhão MG 151/15 (15mm) no cubo da hélice + 2x MG 17,1230,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109F-4,Alemanha,1941,624,11500,680,1x canhão MG 151/20 (20mm) + 2x MG 17,1841,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109G-2,Alemanha,1942,660,11800,650,1x canhão MG 151/20 + 2x MG 17,1586,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109G-6,Alemanha,1943,630,11500,650,1x canhão MG 151/20 (ou MK 108 30mm) + 2x metralhadoras MG 131 de 13mm,12000,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109G-10,Alemanha,1944,685,12500,560,1x canhão MG 151/20 ou MK 108 + 2x MG 131 (Motor DB 605D),2600,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Messerschmitt Bf 109,Bf 109K-4,Alemanha,1944,710,12500,580,1x canhão MK 108 30mm + 2x metralhadoras MG 131 de 13mm,1593,https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants
+Focke-Wulf Fw 190,Fw 190A-3,Alemanha,1942,655,10600,800,4x canhões 20mm (2x MG 151/20 + 2x MG FF) + 2x MG 17,509,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190
+Focke-Wulf Fw 190,Fw 190A-5,Alemanha,1943,660,10500,850,2x MG 151/20 + 2x MG FF + 2x MG 17 (chassi alongado),1752,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190
+Focke-Wulf Fw 190,Fw 190A-8,Alemanha,1944,656,10300,800,4x canhões MG 151/20 de 20mm + 2x metralhadoras MG 131 de 13mm (opção blindagem Sturmbock),6655,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190
+Focke-Wulf Fw 190,Fw 190D-9,Alemanha,1944,686,12000,835,2x canhões MG 151/20 + 2x metralhadoras MG 131 (Motor Jumo 213A nariz longo),1805,https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190
+Focke-Wulf Ta 152,Ta 152H-1,Alemanha,1945,759,14800,1200,1x canhão MK 108 30mm + 2x canhões MG 151/20 de 20mm,67,https://en.wikipedia.org/wiki/Focke-Wulf_Ta_152
+Messerschmitt Me 262,Me 262A-1a Schwalbe,Alemanha,1944,900,11450,1050,4x canhões MK 108 de 30mm + 24x foguetes R4M (Primeiro caça a jato operacional),1430,https://en.wikipedia.org/wiki/Messerschmitt_Me_262
+Messerschmitt Me 163,Me 163B-1a Komet,Alemanha,1944,960,12100,40,2x canhões MK 108 de 30mm (Interceptador com propulsão por foguete Walter HWK 109),370,https://en.wikipedia.org/wiki/Messerschmitt_Me_163_Komet
+Messerschmitt Bf 110,Bf 110C-4,Alemanha,1939,560,10000,900,2x canhões MG FF 20mm + 4x MG 17 de 7.92mm + 1x MG 15 traseira,1300,https://en.wikipedia.org/wiki/Messerschmitt_Bf_110
+Messerschmitt Bf 110,Bf 110G-4,Alemanha,1943,550,9500,1300,2x MG 151/20 + 2x MK 108 30mm + Schräge Musik (2x MG FF/M 20mm a 60°) + Radar Lichtenstein,2293,https://en.wikipedia.org/wiki/Messerschmitt_Bf_110
+North American P-51 Mustang,P-51A,Estados Unidos,1943,628,9600,1200,4x metralhadoras Browning .50 cal (12.7 mm) - Motor Allison,310,https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants
+North American P-51 Mustang,P-51B/C,Estados Unidos,1943,708,12740,2010,4x metralhadoras Browning .50 cal (Motor Packard Merlin V-1650-3),3738,https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants
+North American P-51 Mustang,P-51D,Estados Unidos,1944,703,12800,2655,6x metralhadoras Browning .50 cal + até 2.000 lb bombas (Canopy gota),8102,https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants
+North American P-51 Mustang,P-51H,Estados Unidos,1945,784,12700,1870,6x metralhadoras Browning .50 cal (Versão ultraleve),555,https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants
+Republic P-47 Thunderbolt,P-47B,Estados Unidos,1942,690,11000,900,8x metralhadoras Browning .50 cal (12.7 mm),171,https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt
+Republic P-47 Thunderbolt,P-47D Razorback,Estados Unidos,1943,697,12200,1500,8x metralhadoras Browning .50 cal + 2.500 lb de bombas,8632,https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt
+Republic P-47 Thunderbolt,P-47D Bubbletop,Estados Unidos,1944,700,12200,1800,8x metralhadoras Browning .50 cal + 2.500 lb bombas ou 10x foguetes HVAR,3970,https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt
+Republic P-47 Thunderbolt,P-47M,Estados Unidos,1944,761,12500,965,6x ou 8x metralhadoras Browning .50 cal (Caçador de V-1 e jatos alemães),130,https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt
+Republic P-47 Thunderbolt,P-47N,Estados Unidos,1945,752,12200,3780,8x metralhadoras Browning .50 cal (Asas maiores para escolta de B-29 no Pacífico),1816,https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt
+Lockheed P-38 Lightning,P-38F,Estados Unidos,1942,636,12000,1300,1x canhão Hispano 20mm + 4x metralhadoras Browning .50 cal,527,https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning
+Lockheed P-38 Lightning,P-38G,Estados Unidos,1942,644,11800,1400,1x canhão Hispano 20mm + 4x Browning .50 cal (Modelo da Operação Vengeance / Yamamoto),1082,https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning
+Lockheed P-38 Lightning,P-38J,Estados Unidos,1943,666,13400,2025,1x canhão Hispano 20mm + 4x Browning .50 cal + tanques alares,2970,https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning
+Lockheed P-38 Lightning,P-38L,Estados Unidos,1944,666,13400,4184,1x canhão Hispano 20mm + 4x Browning .50 cal + até 10x foguetes HVAR de 5 pol,3923,https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning
+Curtiss P-40 Warhawk,P-40B Tomahawk,Estados Unidos,1941,566,9875,1175,2x .50 cal no nariz + 4x .30 cal nas asas (Tigres Voadores na China),131,https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants
+Curtiss P-40 Warhawk,P-40E Kittyhawk,Estados Unidos,1941,580,8800,1050,6x metralhadoras Browning .50 cal,2320,https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants
+Curtiss P-40 Warhawk,P-40N,Estados Unidos,1943,608,11600,1200,4x ou 6x metralhadoras Browning .50 cal (versão mais produzida),5220,https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants
+Grumman F4F Wildcat,F4F-3,Estados Unidos,1940,531,11430,1360,4x metralhadoras Browning .50 cal,285,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
+Grumman F4F Wildcat,F4F-4,Estados Unidos,1941,512,10360,1240,6x metralhadoras Browning .50 cal (Asas dobráveis),1169,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
+General Motors FM-2 Wildcat,FM-2,Estados Unidos,1943,534,10570,1450,4x metralhadoras Browning .50 cal (Motor Wright R-1820 para porta-aviões de escolta),4777,https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat
+Grumman F6F Hellcat,F6F-3,Estados Unidos,1943,612,11400,1750,6x metralhadoras Browning .50 cal,4402,https://en.wikipedia.org/wiki/Grumman_F6F_Hellcat
+Grumman F6F Hellcat,F6F-5,Estados Unidos,1944,629,11700,1520,6x metralhadoras Browning .50 cal (ou 2x 20mm + 4x .50 cal) + até 2.000 lb bombas,7870,https://en.wikipedia.org/wiki/Grumman_F6F_Hellcat
+Vought F4U Corsair,F4U-1,Estados Unidos,1942,671,11250,1630,6x metralhadoras Browning .50 cal (Asa de gaivota invertida),758,https://en.wikipedia.org/wiki/Vought_F4U_Corsair
+Vought F4U Corsair,F4U-1D,Estados Unidos,1944,684,11280,1630,6x Browning .50 cal + 8x foguetes HVAR 5 pol + 2.000 lb bombas,1685,https://en.wikipedia.org/wiki/Vought_F4U_Corsair
+Vought F4U Corsair,F4U-4,Estados Unidos,1944,718,12650,1617,6x Browning .50 cal (ou 4x canhões 20mm no 4B) + Motor R-2800-18W,2357,https://en.wikipedia.org/wiki/Vought_F4U_Corsair
+Bell P-39 Airacobra,P-39D,Estados Unidos,1941,579,9800,1300,1x canhão Oldsmobile 37mm + 2x .50 cal + 4x .30 cal,923,https://en.wikipedia.org/wiki/Bell_P-39_Airacobra
+Bell P-39 Airacobra,P-39Q,Estados Unidos,1943,620,10700,1050,1x canhão 37mm + 4x metralhadoras Browning .50 cal (Principal variante Lend-Lease para a URSS),4905,https://en.wikipedia.org/wiki/Bell_P-39_Airacobra
+Mitsubishi A6M Zero,A6M2 Modelo 21,Japão,1940,533,10000,3105,2x canhões Tipo 99 de 20mm + 2x metralhadoras Tipo 97 de 7.7mm,1540,https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero
+Mitsubishi A6M Zero,A6M3 Modelo 32,Japão,1942,545,11050,2380,2x canhões Tipo 99 de 20mm + 2x metralhadoras Tipo 97 de 7.7mm (Pontas de asa quadradas),343,https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero
+Mitsubishi A6M Zero,A6M5 Modelo 52,Japão,1943,565,11740,1920,2x canhões Tipo 99-II 20mm + 2x metralhadoras Tipo 97 de 7.7mm (Escapes individuais),6000,https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero
+Nakajima Ki-43 Hayabusa,Ki-43-I,Japão,1941,495,11730,1200,2x metralhadoras Tipo 89 de 7.7mm ou 1x 7.7mm + 1x 12.7mm Ho-103,716,https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa
+Nakajima Ki-43 Hayabusa,Ki-43-II,Japão,1942,530,11200,1760,2x metralhadoras Ho-103 de 12.7mm + blindagem de piloto,2497,https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa
+Nakajima Ki-43 Hayabusa,Ki-43-III,Japão,1944,576,11400,2120,2x metralhadoras Ho-103 de 12.7mm (ou canhões 20mm no IIIb),2124,https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa
+Kawasaki Ki-61 Hien,Ki-61-I-Tei,Japão,1943,580,11600,1800,2x canhões Ho-5 de 20mm + 2x metralhadoras Ho-103 de 12.7mm (Motor em linha Ha-40),1380,https://en.wikipedia.org/wiki/Kawasaki_Ki-61
+Nakajima Ki-84 Hayate,Ki-84-Ia,Japão,1944,687,11500,2168,2x canhões Ho-5 de 20mm + 2x metralhadoras Ho-103 de 12.7mm,3514,https://en.wikipedia.org/wiki/Nakajima_Ki-84
+Kawanishi N1K2-J Shiden-Kai,N1K2-J,Japão,1944,595,10760,1715,"4x canhões Tipo 99-II de 20mm (Asa baixa, caça de elite do 343 Kokutai)",415,https://en.wikipedia.org/wiki/Kawanishi_N1K
+Mitsubishi J2M Raiden,J2M3 Modelo 21,Japão,1943,612,11700,1898,4x canhões Tipo 99 de 20mm (Interceptador de B-29),281,https://en.wikipedia.org/wiki/Mitsubishi_J2M
+Yakovlev Yak-1,Yak-1,União Soviética,1940,592,10050,700,1x canhão ShVAK 20mm + 2x metralhadoras ShKAS 7.62mm,4261,https://en.wikipedia.org/wiki/Yakovlev_Yak-1
+Yakovlev Yak-1,Yak-1B,União Soviética,1942,592,10050,700,1x canhão ShVAK 20mm + 1x metralhadora Beresin UB 12.7mm (Canopy gota),4473,https://en.wikipedia.org/wiki/Yakovlev_Yak-1
+Yakovlev Yak-7,Yak-7B,União Soviética,1942,580,9900,645,1x canhão ShVAK 20mm + 2x metralhadoras Berezin UB 12.7mm,5120,https://en.wikipedia.org/wiki/Yakovlev_Yak-7
+Yakovlev Yak-9,Yak-9,União Soviética,1942,599,11100,875,1x canhão ShVAK 20mm + 1x metralhadora Berezin UB 12.7mm,2834,https://en.wikipedia.org/wiki/Yakovlev_Yak-9
+Yakovlev Yak-9,Yak-9T,União Soviética,1943,597,10000,735,1x canhão anti-tanque Nudelman-Suranov NS-37 de 37mm + 1x Berezin UB 12.7mm,2748,https://en.wikipedia.org/wiki/Yakovlev_Yak-9
+Yakovlev Yak-9,Yak-9D,União Soviética,1943,591,9100,1360,1x canhão ShVAK 20mm + 1x Berezin UB 12.7mm (Alcance estendido),3058,https://en.wikipedia.org/wiki/Yakovlev_Yak-9
+Yakovlev Yak-3,Yak-3,União Soviética,1944,655,10700,650,1x canhão ShVAK 20mm + 2x metralhadoras Berezin UB 12.7mm (Excelente manobrabilidade a baixa altitude),4848,https://en.wikipedia.org/wiki/Yakovlev_Yak-3
+Lavochkin-Gorbunov-Gudkov LaGG-3,LaGG-3 Series 35,União Soviética,1942,560,9600,650,1x canhão ShVAK 20mm + 1x Berezin UB 12.7mm (Estrutura de delta-wood),6528,https://en.wikipedia.org/wiki/Lavochkin-Gorbunov-Gudkov_LaGG-3
+Lavochkin La-5,La-5,União Soviética,1942,613,9500,765,2x canhões ShVAK de 20mm sincronizados (Motor radial Shvetsov M-82),1129,https://en.wikipedia.org/wiki/Lavochkin_La-5
+Lavochkin La-5,La-5FN,União Soviética,1943,648,11000,765,2x canhões ShVAK 20mm (Motor M-82FN com injeção direta de combustível),4274,https://en.wikipedia.org/wiki/Lavochkin_La-5
+Lavochkin La-7,La-7,União Soviética,1944,661,10450,665,2x ou 3x canhões Berezin B-20 de 20mm (Caça do as Ivan Kozhedub),5753,https://en.wikipedia.org/wiki/Lavochkin_La-7
+Mikoyan-Gurevich MiG-3,MiG-3,União Soviética,1941,640,12000,820,1x metralhadora Berezin UB 12.7mm + 2x ShKAS 7.62mm (Interceptador de alta altitude),3172,https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3
+Polikarpov I-16,I-16 Tipo 24,União Soviética,1939,462,9700,440,2x canhões ShVAK 20mm + 2x metralhadoras ShKAS 7.62mm,934,https://en.wikipedia.org/wiki/Polikarpov_I-16
+Macchi C.202 Folgore,C.202 Serie VII,Itália,1941,600,11500,765,2x Breda-SAFAT 12.7mm no nariz + 2x Breda-SAFAT 7.7mm nas asas (Motor DB 601 sob licença),1150,https://en.wikipedia.org/wiki/Macchi_C.202_Folgore
+Macchi C.205 Veltro,C.205 Serie III,Itália,1943,642,11500,950,2x canhões MG 151/20 de 20mm + 2x Breda-SAFAT 12.7mm (Motor DB 605A),262,https://en.wikipedia.org/wiki/Macchi_C.205_Veltro

@@ -1,0 +1,1053 @@
+"""
+Script de Coleta: Especificações de Caças da Segunda Guerra Mundial por Variante
+Cobre entre 50 e 80 variantes históricas dos principais países beligerantes:
+- Alemanha (Bf 109, Fw 190, Me 262, Bf 110, Ta 152)
+- Reino Unido (Spitfire, Hurricane, Typhoon, Tempest, Mosquito)
+- Estados Unidos (P-51 Mustang, P-47 Thunderbolt, P-38 Lightning, P-40 Warhawk, F4F Wildcat, F6F Hellcat, F4U Corsair, P-39)
+- União Soviética (Yak-1, Yak-3, Yak-7, Yak-9, LaGG-3, La-5, La-7, MiG-3)
+- Japão (A6M Zero, Ki-43 Hayabusa, Ki-61 Hien, Ki-84 Hayate, N1K2 Shiden-Kai, J2M Raiden)
+- Itália (Macchi C.202, Macchi C.205)
+
+Fontes: Manuais de voo históricos, Jane's Fighting Aircraft of WWII, William Green (Warplanes of WWII),
+National Museum of the USAF, RAF Museum Hendon, Infoboxes técnicas da Wikipedia.
+"""
+
+import os
+import pandas as pd
+
+def get_fighter_variants_data():
+    fighters = [
+        # ==========================================
+        # REINO UNIDO (Royal Air Force)
+        # ==========================================
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk I",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1938,
+            "velocidade_max_kmh": 582,
+            "teto_operacional_m": 10485,
+            "alcance_km": 680,
+            "armamento": "8x metralhadoras Browning .303 (7.7 mm)",
+            "unidades_produzidas": 1566,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk II",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 595,
+            "teto_operacional_m": 10850,
+            "alcance_km": 680,
+            "armamento": "8x metralhadoras Browning .303 (Mk IIa) ou 2x canhões Hispano 20mm + 4x Browning .303 (Mk IIb)",
+            "unidades_produzidas": 921,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk Vb",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 605,
+            "teto_operacional_m": 11125,
+            "alcance_km": 760,
+            "armamento": "2x canhões Hispano 20mm + 4x metralhadoras Browning .303",
+            "unidades_produzidas": 3923,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk IX",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 657,
+            "teto_operacional_m": 13100,
+            "alcance_km": 700,
+            "armamento": "2x canhões Hispano 20mm + 2x metralhadoras .50 cal (Asa E) ou 4x .303",
+            "unidades_produzidas": 5656,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk XIV",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 721,
+            "teto_operacional_m": 13560,
+            "alcance_km": 740,
+            "armamento": "2x canhões Hispano 20mm + 2x metralhadoras Browning .50 cal (Motor Griffon 65)",
+            "unidades_produzidas": 957,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Supermarine Spitfire",
+            "variante": "Spitfire Mk 21",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1945,
+            "velocidade_max_kmh": 731,
+            "teto_operacional_m": 13100,
+            "alcance_km": 930,
+            "armamento": "4x canhões Hispano 20mm",
+            "unidades_produzidas": 120,
+            "fonte": "https://en.wikipedia.org/wiki/Supermarine_Spitfire_variants:_specifications"
+        },
+        {
+            "modelo": "Hawker Hurricane",
+            "variante": "Hurricane Mk I",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1937,
+            "velocidade_max_kmh": 547,
+            "teto_operacional_m": 10970,
+            "alcance_km": 965,
+            "armamento": "8x metralhadoras Browning .303 (7.7 mm)",
+            "unidades_produzidas": 3774,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+        },
+        {
+            "modelo": "Hawker Hurricane",
+            "variante": "Hurricane Mk IIb",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 550,
+            "teto_operacional_m": 11125,
+            "alcance_km": 756,
+            "armamento": "12x metralhadoras Browning .303 + bombas até 500 lb",
+            "unidades_produzidas": 3280,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+        },
+        {
+            "modelo": "Hawker Hurricane",
+            "variante": "Hurricane Mk IIc",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 546,
+            "teto_operacional_m": 10850,
+            "alcance_km": 740,
+            "armamento": "4x canhões Hispano 20mm",
+            "unidades_produzidas": 4711,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+        },
+        {
+            "modelo": "Hawker Hurricane",
+            "variante": "Hurricane Mk IV",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 531,
+            "teto_operacional_m": 9000,
+            "alcance_km": 780,
+            "armamento": "2x Browning .303 + 8x foguetes RP-3 ou 2x canhões anti-tanque 40mm Vickers S",
+            "unidades_produzidas": 524,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Hurricane"
+        },
+        {
+            "modelo": "Hawker Typhoon",
+            "variante": "Typhoon Mk Ib",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 663,
+            "teto_operacional_m": 10730,
+            "alcance_km": 821,
+            "armamento": "4x canhões Hispano 20mm + 8x foguetes RP-3 ou 2.000 lb bombas",
+            "unidades_produzidas": 3317,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Typhoon"
+        },
+        {
+            "modelo": "Hawker Tempest",
+            "variante": "Tempest Mk V",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 700,
+            "teto_operacional_m": 11125,
+            "alcance_km": 1190,
+            "armamento": "4x canhões Hispano 20mm (Caçador de bombas V-1 e Me 262)",
+            "unidades_produzidas": 1401,
+            "fonte": "https://en.wikipedia.org/wiki/Hawker_Tempest"
+        },
+        {
+            "modelo": "de Havilland Mosquito",
+            "variante": "Mosquito NF Mk II",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 610,
+            "teto_operacional_m": 10500,
+            "alcance_km": 1900,
+            "armamento": "4x canhões 20mm + 4x metralhadoras .303 + Radar AI Mk IV/V",
+            "unidades_produzidas": 466,
+            "fonte": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+        },
+        {
+            "modelo": "de Havilland Mosquito",
+            "variante": "Mosquito FB Mk VI",
+            "pais": "Reino Unido",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 612,
+            "teto_operacional_m": 10000,
+            "alcance_km": 2100,
+            "armamento": "4x canhões 20mm + 4x metralhadoras .303 + até 2.000 lb bombas ou 8x RP-3",
+            "unidades_produzidas": 2298,
+            "fonte": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito"
+        },
+
+        # ==========================================
+        # ALEMANHA (Luftwaffe)
+        # ==========================================
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109B-1",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1937,
+            "velocidade_max_kmh": 470,
+            "teto_operacional_m": 9300,
+            "alcance_km": 450,
+            "armamento": "3x metralhadoras MG 17 de 7.92 mm (Guerra Civil Espanhola)",
+            "unidades_produzidas": 341,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109E-3",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1939,
+            "velocidade_max_kmh": 560,
+            "teto_operacional_m": 10500,
+            "alcance_km": 660,
+            "armamento": "2x canhões MG FF 20mm + 2x metralhadoras MG 17 de 7.92mm",
+            "unidades_produzidas": 1876,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109E-4",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 570,
+            "teto_operacional_m": 10500,
+            "alcance_km": 660,
+            "armamento": "2x canhões MG FF/M 20mm (munição Minengeschoß) + 2x MG 17",
+            "unidades_produzidas": 561,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109F-2",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 600,
+            "teto_operacional_m": 11000,
+            "alcance_km": 665,
+            "armamento": "1x canhão MG 151/15 (15mm) no cubo da hélice + 2x MG 17",
+            "unidades_produzidas": 1230,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109F-4",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 624,
+            "teto_operacional_m": 11500,
+            "alcance_km": 680,
+            "armamento": "1x canhão MG 151/20 (20mm) + 2x MG 17",
+            "unidades_produzidas": 1841,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109G-2",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 660,
+            "teto_operacional_m": 11800,
+            "alcance_km": 650,
+            "armamento": "1x canhão MG 151/20 + 2x MG 17",
+            "unidades_produzidas": 1586,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109G-6",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 630,
+            "teto_operacional_m": 11500,
+            "alcance_km": 650,
+            "armamento": "1x canhão MG 151/20 (ou MK 108 30mm) + 2x metralhadoras MG 131 de 13mm",
+            "unidades_produzidas": 12000,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109G-10",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 685,
+            "teto_operacional_m": 12500,
+            "alcance_km": 560,
+            "armamento": "1x canhão MG 151/20 ou MK 108 + 2x MG 131 (Motor DB 605D)",
+            "unidades_produzidas": 2600,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Messerschmitt Bf 109",
+            "variante": "Bf 109K-4",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 710,
+            "teto_operacional_m": 12500,
+            "alcance_km": 580,
+            "armamento": "1x canhão MK 108 30mm + 2x metralhadoras MG 131 de 13mm",
+            "unidades_produzidas": 1593,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_109_variants"
+        },
+        {
+            "modelo": "Focke-Wulf Fw 190",
+            "variante": "Fw 190A-3",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 655,
+            "teto_operacional_m": 10600,
+            "alcance_km": 800,
+            "armamento": "4x canhões 20mm (2x MG 151/20 + 2x MG FF) + 2x MG 17",
+            "unidades_produzidas": 509,
+            "fonte": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+        },
+        {
+            "modelo": "Focke-Wulf Fw 190",
+            "variante": "Fw 190A-5",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 660,
+            "teto_operacional_m": 10500,
+            "alcance_km": 850,
+            "armamento": "2x MG 151/20 + 2x MG FF + 2x MG 17 (chassi alongado)",
+            "unidades_produzidas": 1752,
+            "fonte": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+        },
+        {
+            "modelo": "Focke-Wulf Fw 190",
+            "variante": "Fw 190A-8",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 656,
+            "teto_operacional_m": 10300,
+            "alcance_km": 800,
+            "armamento": "4x canhões MG 151/20 de 20mm + 2x metralhadoras MG 131 de 13mm (opção blindagem Sturmbock)",
+            "unidades_produzidas": 6655,
+            "fonte": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+        },
+        {
+            "modelo": "Focke-Wulf Fw 190",
+            "variante": "Fw 190D-9",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 686,
+            "teto_operacional_m": 12000,
+            "alcance_km": 835,
+            "armamento": "2x canhões MG 151/20 + 2x metralhadoras MG 131 (Motor Jumo 213A nariz longo)",
+            "unidades_produzidas": 1805,
+            "fonte": "https://en.wikipedia.org/wiki/Focke-Wulf_Fw_190"
+        },
+        {
+            "modelo": "Focke-Wulf Ta 152",
+            "variante": "Ta 152H-1",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1945,
+            "velocidade_max_kmh": 759,
+            "teto_operacional_m": 14800,
+            "alcance_km": 1200,
+            "armamento": "1x canhão MK 108 30mm + 2x canhões MG 151/20 de 20mm",
+            "unidades_produzidas": 67,
+            "fonte": "https://en.wikipedia.org/wiki/Focke-Wulf_Ta_152"
+        },
+        {
+            "modelo": "Messerschmitt Me 262",
+            "variante": "Me 262A-1a Schwalbe",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 900,
+            "teto_operacional_m": 11450,
+            "alcance_km": 1050,
+            "armamento": "4x canhões MK 108 de 30mm + 24x foguetes R4M (Primeiro caça a jato operacional)",
+            "unidades_produzidas": 1430,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Me_262"
+        },
+        {
+            "modelo": "Messerschmitt Me 163",
+            "variante": "Me 163B-1a Komet",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 960,
+            "teto_operacional_m": 12100,
+            "alcance_km": 40,
+            "armamento": "2x canhões MK 108 de 30mm (Interceptador com propulsão por foguete Walter HWK 109)",
+            "unidades_produzidas": 370,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Me_163_Komet"
+        },
+        {
+            "modelo": "Messerschmitt Bf 110",
+            "variante": "Bf 110C-4",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1939,
+            "velocidade_max_kmh": 560,
+            "teto_operacional_m": 10000,
+            "alcance_km": 900,
+            "armamento": "2x canhões MG FF 20mm + 4x MG 17 de 7.92mm + 1x MG 15 traseira",
+            "unidades_produzidas": 1300,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_110"
+        },
+        {
+            "modelo": "Messerschmitt Bf 110",
+            "variante": "Bf 110G-4",
+            "pais": "Alemanha",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 550,
+            "teto_operacional_m": 9500,
+            "alcance_km": 1300,
+            "armamento": "2x MG 151/20 + 2x MK 108 30mm + Schräge Musik (2x MG FF/M 20mm a 60°) + Radar Lichtenstein",
+            "unidades_produzidas": 2293,
+            "fonte": "https://en.wikipedia.org/wiki/Messerschmitt_Bf_110"
+        },
+
+        # ==========================================
+        # ESTADOS UNIDOS (USAAF, US Navy, USMC)
+        # ==========================================
+        {
+            "modelo": "North American P-51 Mustang",
+            "variante": "P-51A",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 628,
+            "teto_operacional_m": 9600,
+            "alcance_km": 1200,
+            "armamento": "4x metralhadoras Browning .50 cal (12.7 mm) - Motor Allison",
+            "unidades_produzidas": 310,
+            "fonte": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants"
+        },
+        {
+            "modelo": "North American P-51 Mustang",
+            "variante": "P-51B/C",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 708,
+            "teto_operacional_m": 12740,
+            "alcance_km": 2010,
+            "armamento": "4x metralhadoras Browning .50 cal (Motor Packard Merlin V-1650-3)",
+            "unidades_produzidas": 3738,
+            "fonte": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants"
+        },
+        {
+            "modelo": "North American P-51 Mustang",
+            "variante": "P-51D",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 703,
+            "teto_operacional_m": 12800,
+            "alcance_km": 2655,
+            "armamento": "6x metralhadoras Browning .50 cal + até 2.000 lb bombas (Canopy gota)",
+            "unidades_produzidas": 8102,
+            "fonte": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants"
+        },
+        {
+            "modelo": "North American P-51 Mustang",
+            "variante": "P-51H",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1945,
+            "velocidade_max_kmh": 784,
+            "teto_operacional_m": 12700,
+            "alcance_km": 1870,
+            "armamento": "6x metralhadoras Browning .50 cal (Versão ultraleve)",
+            "unidades_produzidas": 555,
+            "fonte": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang_variants"
+        },
+        {
+            "modelo": "Republic P-47 Thunderbolt",
+            "variante": "P-47B",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 690,
+            "teto_operacional_m": 11000,
+            "alcance_km": 900,
+            "armamento": "8x metralhadoras Browning .50 cal (12.7 mm)",
+            "unidades_produzidas": 171,
+            "fonte": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+        },
+        {
+            "modelo": "Republic P-47 Thunderbolt",
+            "variante": "P-47D Razorback",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 697,
+            "teto_operacional_m": 12200,
+            "alcance_km": 1500,
+            "armamento": "8x metralhadoras Browning .50 cal + 2.500 lb de bombas",
+            "unidades_produzidas": 8632,
+            "fonte": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+        },
+        {
+            "modelo": "Republic P-47 Thunderbolt",
+            "variante": "P-47D Bubbletop",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 700,
+            "teto_operacional_m": 12200,
+            "alcance_km": 1800,
+            "armamento": "8x metralhadoras Browning .50 cal + 2.500 lb bombas ou 10x foguetes HVAR",
+            "unidades_produzidas": 3970,
+            "fonte": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+        },
+        {
+            "modelo": "Republic P-47 Thunderbolt",
+            "variante": "P-47M",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 761,
+            "teto_operacional_m": 12500,
+            "alcance_km": 965,
+            "armamento": "6x ou 8x metralhadoras Browning .50 cal (Caçador de V-1 e jatos alemães)",
+            "unidades_produzidas": 130,
+            "fonte": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+        },
+        {
+            "modelo": "Republic P-47 Thunderbolt",
+            "variante": "P-47N",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1945,
+            "velocidade_max_kmh": 752,
+            "teto_operacional_m": 12200,
+            "alcance_km": 3780,
+            "armamento": "8x metralhadoras Browning .50 cal (Asas maiores para escolta de B-29 no Pacífico)",
+            "unidades_produzidas": 1816,
+            "fonte": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt"
+        },
+        {
+            "modelo": "Lockheed P-38 Lightning",
+            "variante": "P-38F",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 636,
+            "teto_operacional_m": 12000,
+            "alcance_km": 1300,
+            "armamento": "1x canhão Hispano 20mm + 4x metralhadoras Browning .50 cal",
+            "unidades_produzidas": 527,
+            "fonte": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+        },
+        {
+            "modelo": "Lockheed P-38 Lightning",
+            "variante": "P-38G",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 644,
+            "teto_operacional_m": 11800,
+            "alcance_km": 1400,
+            "armamento": "1x canhão Hispano 20mm + 4x Browning .50 cal (Modelo da Operação Vengeance / Yamamoto)",
+            "unidades_produzidas": 1082,
+            "fonte": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+        },
+        {
+            "modelo": "Lockheed P-38 Lightning",
+            "variante": "P-38J",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 666,
+            "teto_operacional_m": 13400,
+            "alcance_km": 2025,
+            "armamento": "1x canhão Hispano 20mm + 4x Browning .50 cal + tanques alares",
+            "unidades_produzidas": 2970,
+            "fonte": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+        },
+        {
+            "modelo": "Lockheed P-38 Lightning",
+            "variante": "P-38L",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 666,
+            "teto_operacional_m": 13400,
+            "alcance_km": 4184,
+            "armamento": "1x canhão Hispano 20mm + 4x Browning .50 cal + até 10x foguetes HVAR de 5 pol",
+            "unidades_produzidas": 3923,
+            "fonte": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning"
+        },
+        {
+            "modelo": "Curtiss P-40 Warhawk",
+            "variante": "P-40B Tomahawk",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 566,
+            "teto_operacional_m": 9875,
+            "alcance_km": 1175,
+            "armamento": "2x .50 cal no nariz + 4x .30 cal nas asas (Tigres Voadores na China)",
+            "unidades_produzidas": 131,
+            "fonte": "https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants"
+        },
+        {
+            "modelo": "Curtiss P-40 Warhawk",
+            "variante": "P-40E Kittyhawk",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 580,
+            "teto_operacional_m": 8800,
+            "alcance_km": 1050,
+            "armamento": "6x metralhadoras Browning .50 cal",
+            "unidades_produzidas": 2320,
+            "fonte": "https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants"
+        },
+        {
+            "modelo": "Curtiss P-40 Warhawk",
+            "variante": "P-40N",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 608,
+            "teto_operacional_m": 11600,
+            "alcance_km": 1200,
+            "armamento": "4x ou 6x metralhadoras Browning .50 cal (versão mais produzida)",
+            "unidades_produzidas": 5220,
+            "fonte": "https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants"
+        },
+        {
+            "modelo": "Grumman F4F Wildcat",
+            "variante": "F4F-3",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 531,
+            "teto_operacional_m": 11430,
+            "alcance_km": 1360,
+            "armamento": "4x metralhadoras Browning .50 cal",
+            "unidades_produzidas": 285,
+            "fonte": "https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat"
+        },
+        {
+            "modelo": "Grumman F4F Wildcat",
+            "variante": "F4F-4",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 512,
+            "teto_operacional_m": 10360,
+            "alcance_km": 1240,
+            "armamento": "6x metralhadoras Browning .50 cal (Asas dobráveis)",
+            "unidades_produzidas": 1169,
+            "fonte": "https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat"
+        },
+        {
+            "modelo": "General Motors FM-2 Wildcat",
+            "variante": "FM-2",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 534,
+            "teto_operacional_m": 10570,
+            "alcance_km": 1450,
+            "armamento": "4x metralhadoras Browning .50 cal (Motor Wright R-1820 para porta-aviões de escolta)",
+            "unidades_produzidas": 4777,
+            "fonte": "https://en.wikipedia.org/wiki/Grumman_F4F_Wildcat"
+        },
+        {
+            "modelo": "Grumman F6F Hellcat",
+            "variante": "F6F-3",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 612,
+            "teto_operacional_m": 11400,
+            "alcance_km": 1750,
+            "armamento": "6x metralhadoras Browning .50 cal",
+            "unidades_produzidas": 4402,
+            "fonte": "https://en.wikipedia.org/wiki/Grumman_F6F_Hellcat"
+        },
+        {
+            "modelo": "Grumman F6F Hellcat",
+            "variante": "F6F-5",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 629,
+            "teto_operacional_m": 11700,
+            "alcance_km": 1520,
+            "armamento": "6x metralhadoras Browning .50 cal (ou 2x 20mm + 4x .50 cal) + até 2.000 lb bombas",
+            "unidades_produzidas": 7870,
+            "fonte": "https://en.wikipedia.org/wiki/Grumman_F6F_Hellcat"
+        },
+        {
+            "modelo": "Vought F4U Corsair",
+            "variante": "F4U-1",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 671,
+            "teto_operacional_m": 11250,
+            "alcance_km": 1630,
+            "armamento": "6x metralhadoras Browning .50 cal (Asa de gaivota invertida)",
+            "unidades_produzidas": 758,
+            "fonte": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+        },
+        {
+            "modelo": "Vought F4U Corsair",
+            "variante": "F4U-1D",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 684,
+            "teto_operacional_m": 11280,
+            "alcance_km": 1630,
+            "armamento": "6x Browning .50 cal + 8x foguetes HVAR 5 pol + 2.000 lb bombas",
+            "unidades_produzidas": 1685,
+            "fonte": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+        },
+        {
+            "modelo": "Vought F4U Corsair",
+            "variante": "F4U-4",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 718,
+            "teto_operacional_m": 12650,
+            "alcance_km": 1617,
+            "armamento": "6x Browning .50 cal (ou 4x canhões 20mm no 4B) + Motor R-2800-18W",
+            "unidades_produzidas": 2357,
+            "fonte": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+        },
+        {
+            "modelo": "Bell P-39 Airacobra",
+            "variante": "P-39D",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 579,
+            "teto_operacional_m": 9800,
+            "alcance_km": 1300,
+            "armamento": "1x canhão Oldsmobile 37mm + 2x .50 cal + 4x .30 cal",
+            "unidades_produzidas": 923,
+            "fonte": "https://en.wikipedia.org/wiki/Bell_P-39_Airacobra"
+        },
+        {
+            "modelo": "Bell P-39 Airacobra",
+            "variante": "P-39Q",
+            "pais": "Estados Unidos",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 620,
+            "teto_operacional_m": 10700,
+            "alcance_km": 1050,
+            "armamento": "1x canhão 37mm + 4x metralhadoras Browning .50 cal (Principal variante Lend-Lease para a URSS)",
+            "unidades_produzidas": 4905,
+            "fonte": "https://en.wikipedia.org/wiki/Bell_P-39_Airacobra"
+        },
+
+        # ==========================================
+        # JAPÃO (Marinha Imperial e Exército Imperial)
+        # ==========================================
+        {
+            "modelo": "Mitsubishi A6M Zero",
+            "variante": "A6M2 Modelo 21",
+            "pais": "Japão",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 533,
+            "teto_operacional_m": 10000,
+            "alcance_km": 3105,
+            "armamento": "2x canhões Tipo 99 de 20mm + 2x metralhadoras Tipo 97 de 7.7mm",
+            "unidades_produzidas": 1540,
+            "fonte": "https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero"
+        },
+        {
+            "modelo": "Mitsubishi A6M Zero",
+            "variante": "A6M3 Modelo 32",
+            "pais": "Japão",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 545,
+            "teto_operacional_m": 11050,
+            "alcance_km": 2380,
+            "armamento": "2x canhões Tipo 99 de 20mm + 2x metralhadoras Tipo 97 de 7.7mm (Pontas de asa quadradas)",
+            "unidades_produzidas": 343,
+            "fonte": "https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero"
+        },
+        {
+            "modelo": "Mitsubishi A6M Zero",
+            "variante": "A6M5 Modelo 52",
+            "pais": "Japão",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 565,
+            "teto_operacional_m": 11740,
+            "alcance_km": 1920,
+            "armamento": "2x canhões Tipo 99-II 20mm + 2x metralhadoras Tipo 97 de 7.7mm (Escapes individuais)",
+            "unidades_produzidas": 6000,
+            "fonte": "https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero"
+        },
+        {
+            "modelo": "Nakajima Ki-43 Hayabusa",
+            "variante": "Ki-43-I",
+            "pais": "Japão",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 495,
+            "teto_operacional_m": 11730,
+            "alcance_km": 1200,
+            "armamento": "2x metralhadoras Tipo 89 de 7.7mm ou 1x 7.7mm + 1x 12.7mm Ho-103",
+            "unidades_produzidas": 716,
+            "fonte": "https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa"
+        },
+        {
+            "modelo": "Nakajima Ki-43 Hayabusa",
+            "variante": "Ki-43-II",
+            "pais": "Japão",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 530,
+            "teto_operacional_m": 11200,
+            "alcance_km": 1760,
+            "armamento": "2x metralhadoras Ho-103 de 12.7mm + blindagem de piloto",
+            "unidades_produzidas": 2497,
+            "fonte": "https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa"
+        },
+        {
+            "modelo": "Nakajima Ki-43 Hayabusa",
+            "variante": "Ki-43-III",
+            "pais": "Japão",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 576,
+            "teto_operacional_m": 11400,
+            "alcance_km": 2120,
+            "armamento": "2x metralhadoras Ho-103 de 12.7mm (ou canhões 20mm no IIIb)",
+            "unidades_produzidas": 2124,
+            "fonte": "https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa"
+        },
+        {
+            "modelo": "Kawasaki Ki-61 Hien",
+            "variante": "Ki-61-I-Tei",
+            "pais": "Japão",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 580,
+            "teto_operacional_m": 11600,
+            "alcance_km": 1800,
+            "armamento": "2x canhões Ho-5 de 20mm + 2x metralhadoras Ho-103 de 12.7mm (Motor em linha Ha-40)",
+            "unidades_produzidas": 1380,
+            "fonte": "https://en.wikipedia.org/wiki/Kawasaki_Ki-61"
+        },
+        {
+            "modelo": "Nakajima Ki-84 Hayate",
+            "variante": "Ki-84-Ia",
+            "pais": "Japão",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 687,
+            "teto_operacional_m": 11500,
+            "alcance_km": 2168,
+            "armamento": "2x canhões Ho-5 de 20mm + 2x metralhadoras Ho-103 de 12.7mm",
+            "unidades_produzidas": 3514,
+            "fonte": "https://en.wikipedia.org/wiki/Nakajima_Ki-84"
+        },
+        {
+            "modelo": "Kawanishi N1K2-J Shiden-Kai",
+            "variante": "N1K2-J",
+            "pais": "Japão",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 595,
+            "teto_operacional_m": 10760,
+            "alcance_km": 1715,
+            "armamento": "4x canhões Tipo 99-II de 20mm (Asa baixa, caça de elite do 343 Kokutai)",
+            "unidades_produzidas": 415,
+            "fonte": "https://en.wikipedia.org/wiki/Kawanishi_N1K"
+        },
+        {
+            "modelo": "Mitsubishi J2M Raiden",
+            "variante": "J2M3 Modelo 21",
+            "pais": "Japão",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 612,
+            "teto_operacional_m": 11700,
+            "alcance_km": 1898,
+            "armamento": "4x canhões Tipo 99 de 20mm (Interceptador de B-29)",
+            "unidades_produzidas": 281,
+            "fonte": "https://en.wikipedia.org/wiki/Mitsubishi_J2M"
+        },
+
+        # ==========================================
+        # UNIÃO SOVIÉTICA (VVS)
+        # ==========================================
+        {
+            "modelo": "Yakovlev Yak-1",
+            "variante": "Yak-1",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1940,
+            "velocidade_max_kmh": 592,
+            "teto_operacional_m": 10050,
+            "alcance_km": 700,
+            "armamento": "1x canhão ShVAK 20mm + 2x metralhadoras ShKAS 7.62mm",
+            "unidades_produzidas": 4261,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-1"
+        },
+        {
+            "modelo": "Yakovlev Yak-1",
+            "variante": "Yak-1B",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 592,
+            "teto_operacional_m": 10050,
+            "alcance_km": 700,
+            "armamento": "1x canhão ShVAK 20mm + 1x metralhadora Beresin UB 12.7mm (Canopy gota)",
+            "unidades_produzidas": 4473,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-1"
+        },
+        {
+            "modelo": "Yakovlev Yak-7",
+            "variante": "Yak-7B",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 580,
+            "teto_operacional_m": 9900,
+            "alcance_km": 645,
+            "armamento": "1x canhão ShVAK 20mm + 2x metralhadoras Berezin UB 12.7mm",
+            "unidades_produzidas": 5120,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-7"
+        },
+        {
+            "modelo": "Yakovlev Yak-9",
+            "variante": "Yak-9",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 599,
+            "teto_operacional_m": 11100,
+            "alcance_km": 875,
+            "armamento": "1x canhão ShVAK 20mm + 1x metralhadora Berezin UB 12.7mm",
+            "unidades_produzidas": 2834,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-9"
+        },
+        {
+            "modelo": "Yakovlev Yak-9",
+            "variante": "Yak-9T",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 597,
+            "teto_operacional_m": 10000,
+            "alcance_km": 735,
+            "armamento": "1x canhão anti-tanque Nudelman-Suranov NS-37 de 37mm + 1x Berezin UB 12.7mm",
+            "unidades_produzidas": 2748,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-9"
+        },
+        {
+            "modelo": "Yakovlev Yak-9",
+            "variante": "Yak-9D",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 591,
+            "teto_operacional_m": 9100,
+            "alcance_km": 1360,
+            "armamento": "1x canhão ShVAK 20mm + 1x Berezin UB 12.7mm (Alcance estendido)",
+            "unidades_produzidas": 3058,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-9"
+        },
+        {
+            "modelo": "Yakovlev Yak-3",
+            "variante": "Yak-3",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 655,
+            "teto_operacional_m": 10700,
+            "alcance_km": 650,
+            "armamento": "1x canhão ShVAK 20mm + 2x metralhadoras Berezin UB 12.7mm (Excelente manobrabilidade a baixa altitude)",
+            "unidades_produzidas": 4848,
+            "fonte": "https://en.wikipedia.org/wiki/Yakovlev_Yak-3"
+        },
+        {
+            "modelo": "Lavochkin-Gorbunov-Gudkov LaGG-3",
+            "variante": "LaGG-3 Series 35",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 560,
+            "teto_operacional_m": 9600,
+            "alcance_km": 650,
+            "armamento": "1x canhão ShVAK 20mm + 1x Berezin UB 12.7mm (Estrutura de delta-wood)",
+            "unidades_produzidas": 6528,
+            "fonte": "https://en.wikipedia.org/wiki/Lavochkin-Gorbunov-Gudkov_LaGG-3"
+        },
+        {
+            "modelo": "Lavochkin La-5",
+            "variante": "La-5",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1942,
+            "velocidade_max_kmh": 613,
+            "teto_operacional_m": 9500,
+            "alcance_km": 765,
+            "armamento": "2x canhões ShVAK de 20mm sincronizados (Motor radial Shvetsov M-82)",
+            "unidades_produzidas": 1129,
+            "fonte": "https://en.wikipedia.org/wiki/Lavochkin_La-5"
+        },
+        {
+            "modelo": "Lavochkin La-5",
+            "variante": "La-5FN",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 648,
+            "teto_operacional_m": 11000,
+            "alcance_km": 765,
+            "armamento": "2x canhões ShVAK 20mm (Motor M-82FN com injeção direta de combustível)",
+            "unidades_produzidas": 4274,
+            "fonte": "https://en.wikipedia.org/wiki/Lavochkin_La-5"
+        },
+        {
+            "modelo": "Lavochkin La-7",
+            "variante": "La-7",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1944,
+            "velocidade_max_kmh": 661,
+            "teto_operacional_m": 10450,
+            "alcance_km": 665,
+            "armamento": "2x ou 3x canhões Berezin B-20 de 20mm (Caça do as Ivan Kozhedub)",
+            "unidades_produzidas": 5753,
+            "fonte": "https://en.wikipedia.org/wiki/Lavochkin_La-7"
+        },
+        {
+            "modelo": "Mikoyan-Gurevich MiG-3",
+            "variante": "MiG-3",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 640,
+            "teto_operacional_m": 12000,
+            "alcance_km": 820,
+            "armamento": "1x metralhadora Berezin UB 12.7mm + 2x ShKAS 7.62mm (Interceptador de alta altitude)",
+            "unidades_produzidas": 3172,
+            "fonte": "https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-3"
+        },
+        {
+            "modelo": "Polikarpov I-16",
+            "variante": "I-16 Tipo 24",
+            "pais": "União Soviética",
+            "ano_entrada_servico": 1939,
+            "velocidade_max_kmh": 462,
+            "teto_operacional_m": 9700,
+            "alcance_km": 440,
+            "armamento": "2x canhões ShVAK 20mm + 2x metralhadoras ShKAS 7.62mm",
+            "unidades_produzidas": 934,
+            "fonte": "https://en.wikipedia.org/wiki/Polikarpov_I-16"
+        },
+
+        # ==========================================
+        # ITÁLIA (Regia Aeronautica)
+        # ==========================================
+        {
+            "modelo": "Macchi C.202 Folgore",
+            "variante": "C.202 Serie VII",
+            "pais": "Itália",
+            "ano_entrada_servico": 1941,
+            "velocidade_max_kmh": 600,
+            "teto_operacional_m": 11500,
+            "alcance_km": 765,
+            "armamento": "2x Breda-SAFAT 12.7mm no nariz + 2x Breda-SAFAT 7.7mm nas asas (Motor DB 601 sob licença)",
+            "unidades_produzidas": 1150,
+            "fonte": "https://en.wikipedia.org/wiki/Macchi_C.202_Folgore"
+        },
+        {
+            "modelo": "Macchi C.205 Veltro",
+            "variante": "C.205 Serie III",
+            "pais": "Itália",
+            "ano_entrada_servico": 1943,
+            "velocidade_max_kmh": 642,
+            "teto_operacional_m": 11500,
+            "alcance_km": 950,
+            "armamento": "2x canhões MG 151/20 de 20mm + 2x Breda-SAFAT 12.7mm (Motor DB 605A)",
+            "unidades_produzidas": 262,
+            "fonte": "https://en.wikipedia.org/wiki/Macchi_C.205_Veltro"
+        }
+    ]
+    return fighters
+
+def main():
+    os.makedirs(r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw", exist_ok=True)
+    data = get_fighter_variants_data()
+    df = pd.DataFrame(data)
+    out_csv = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw\caças.csv"
+    df.to_csv(out_csv, index=False, encoding='utf-8-sig')
+    print(f"Sucesso! Total de {len(df)} variantes de caças salvas em {out_csv}")
+    print("\nVariantes por país:")
+    print(df['pais'].value_counts())
+
+if __name__ == '__main__':
+    main()

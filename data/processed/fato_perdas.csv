@@ -1,0 +1,31 @@
+﻿id_fato_perda,id_batalha,id_data,id_pais,aeronaves_perdidas,aeronaves_abatidas_reivindicadas,fonte
+1,1,19400811,5,115.0,227.0,Wood & Dempster 'The Narrow Margin'; RAF Fighter Command War Diary AIR 16
+2,1,19400811,1,227.0,180.0,Generalquartiermeister der Luftwaffe Loss Reports; Stephen Bungay 'The Most Dangerous Enemy'
+3,2,19400817,5,95.0,255.0,Francis K. Mason 'Battle Over Britain'; Wood & Dempster 'The Narrow Margin'
+4,2,19400817,1,180.0,160.0,Luftwaffe Quartermaster General Returns; Bungay 'The Most Dangerous Enemy'
+5,3,19400818,5,68.0,144.0,Alfred Price 'The Hardest Day: 18 August 1940'; UK National Archives AIR 16/AIR 22
+6,3,19400818,1,69.0,147.0,Alfred Price 'The Hardest Day: 18 August 1940'; Bundesarchiv-Militärarchiv Freiburg
+7,4,19400906,5,295.0,560.0,Francis K. Mason 'Battle Over Britain'; Wood & Dempster 'The Narrow Margin'
+8,4,19400906,1,378.0,410.0,Luftwaffe Quartermaster General Returns; Stephen Bungay 'The Most Dangerous Enemy'
+9,5,19400914,5,110.0,230.0,Francis K. Mason 'Battle Over Britain'; RAF Fighter Command Summary
+10,5,19400914,1,160.0,170.0,Generalquartiermeister der Luftwaffe; Bungay 'The Most Dangerous Enemy'
+11,6,19400915,5,29.0,185.0,RAF Fighter Command Operations Record Book; UK National Archives AIR 16/949
+12,6,19400915,1,56.0,79.0,Luftwaffe Quartermaster General Returns BA-MA RL 2 III; Alfred Price 'Battle of Britain Day'
+13,7,19401031,5,213.0,420.0,Francis K. Mason 'Battle Over Britain'; Wood & Dempster 'The Narrow Margin'
+14,7,19401031,1,325.0,310.0,Generalquartiermeister der Luftwaffe; Stephen Bungay 'The Most Dangerous Enemy'
+15,8,19420604,4,147.0,280.0,Jonathan Parshall & Anthony Tully 'Shattered Sword: The Untold Story of the Battle of Midway'; ONI Combat Narratives
+16,8,19420604,2,288.0,160.0,Jonathan Parshall & Anthony Tully 'Shattered Sword'; Senshi Sōsho Vol. 43
+17,9,19440619,4,23.0,385.0,"Samuel Eliot Morison 'History of United States Naval Operations in WWII', Vol 8; Barrett Tillman 'Clash of the Carriers'"
+18,9,19440619,2,396.0,110.0,Barrett Tillman 'Clash of the Carriers'; Senshi Sōsho Vol. 12; Morison Vol 8
+19,10,19440620,4,100.0,65.0,Samuel Eliot Morison Vol 8; Barrett Tillman 'Clash of the Carriers' (80 aviões perdidos por falta de combustível)
+20,10,19440620,2,65.0,35.0,Senshi Sōsho Vol. 12; Barrett Tillman 'Clash of the Carriers'
+21,11,19430817,4,60.0,288.0,Craven & Cate 'The Army Air Forces in WWII' Vol 2; Roger Freeman 'The Mighty Eighth'
+22,11,19430817,1,27.0,78.0,Donald Caldwell & Richard Muller 'The Luftwaffe Over Germany: Defense of the Reich'
+23,12,19431014,4,77.0,186.0,Martin Middlebrook 'The Schweinfurt-Regensburg Mission'; Roger Freeman 'The Mighty Eighth' (60 em combate + 17 sucata)
+24,12,19431014,1,38.0,85.0,Caldwell & Muller 'The Luftwaffe Over Germany: Defense of the Reich'
+25,13,19440225,4,254.0,510.0,Craven & Cate 'The Army Air Forces in WWII' Vol 3; AAF Statistical Digest Table 158/166
+26,13,19440225,1,262.0,380.0,USSBS Report: 'The German Aircraft Industry'; Caldwell & Muller 'The Luftwaffe Over Germany'
+27,14,19440306,4,80.0,179.0,Roger Freeman 'The Mighty Eighth'; Eighth Air Force Mission 250 Report (69 bombardeiros + 11 caças perdidos)
+28,14,19440306,1,66.0,95.0,Caldwell & Muller 'The Luftwaffe Over Germany: Defense of the Reich'
+29,15,19450101,1,304.0,450.0,John Manrho & Ron Pütz 'Bodenplatte: The Luftwaffe's Last Hope'; BA-MA RL 2 III
+30,15,19450101,7,144.0,250.0,Norman Franks 'The Battle of the Airfields: 1 January 1945'; UK National Archives AIR 20
