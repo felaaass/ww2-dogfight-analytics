@@ -65,6 +65,8 @@ docs/
 data/
 ├── raw/                           # CSVs brutos coletados e PDF original da USAAF
 └── processed/                     # banco SQLite (dogfight.db) e CSVs dimensionais/fatos
+powerbi/
+└── dashboard_dogfight.pbix        # dashboard com Star Schema e DAX
 requirements.txt
 LICENSE
 ```
