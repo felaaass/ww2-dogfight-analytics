@@ -1,5 +1,10 @@
 # Ases e Atrito — A Guerra Aérea da 2ª Guerra Mundial Contada pelos Números
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python: 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Database: SQLite / Star Schema](https://img.shields.io/badge/Database-Star%20Schema-green.svg)](data/processed/dogfight.db)
+[![Power BI: Ready](https://img.shields.io/badge/Power%20BI-Ready-F2C811.svg)](docs/guia_powerbi.md)
+
 Pipeline de dados analítico de ponta a ponta, modelagem em esquema estrela (*Star Schema*), banco relacional, análises estatísticas, fórmulas DAX e consultas Power Query para alimentar um dashboard executivo no **Power BI Desktop**.
 
 ---
