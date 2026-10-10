@@ -6,7 +6,7 @@ Pipeline de dados analítico sobre o combate aéreo na Segunda Guerra Mundial (1
 
 - **Python** — extração via APIs públicas e `pdfplumber`, validação de contratos de dados com `pandera`
 - **SQL (SQLite)** — banco dimensional local (`dogfight.db`) com Star Schema, Views, CTEs e Window Functions
-- **Power BI / Power Query** — modelagem dimensional (1:*), consultas em Linguagem M e medidas DAX (RANKX, Pareto, Time Intelligence)
+- **Power BI** — dashboard com Star Schema e modelagem dimensional
 - **Jupyter Notebook** — análise exploratória, curva de concentração de Lorenz/Gini e regressão linear
 
 ## Metodologia
@@ -33,7 +33,7 @@ Nos dados japoneses, a Marinha e o Exército Imperial proibiram registros indivi
 
 ## Validação cruzada
 
-Os números foram conferidos em três camadas independentes — Python (Pandas/Pandera), SQLite (`dogfight.db`) e consultas M do Power Query — batendo exatamente: 1.020 ases, 83 variantes de caças, 30 registros de batalha e 61 registros de produção/atrito.
+Os números foram conferidos em três camadas independentes — Python (Pandas/Pandera), SQLite (`dogfight.db`) e arquivos dimensionais processados (CSVs) — batendo exatamente: 1.020 ases, 83 variantes de caças, 30 registros de batalha e 61 registros de produção/atrito.
 
 ## Estrutura
 
@@ -56,18 +56,6 @@ sql/
 ├── 03_evolucao_perdas_temporal.sql# perdas acumuladas e variação temporal (LAG)
 ├── 04_comparacao_variantes_aeronaves.sql # evolução de especificações por linhagem
 └── 05_correlacao_producao_perdas.sql # correlação entre capacidade fabril e atrito
-powerquery/
-├── dim_aeronave.m                 # extração e tipagem M da dim_aeronave
-├── dim_batalha.m                  # extração e tipagem M da dim_batalha
-├── dim_data.m                     # extração e tipagem M da dim_data
-├── dim_pais.m                     # extração e tipagem M da dim_pais
-├── dim_piloto.m                   # extração e tipagem M da dim_piloto
-├── fato_perdas.m                  # extração e tipagem M da fato_perdas
-├── fato_producao.m                # extração e tipagem M da fato_producao
-└── fato_vitorias.m                # extração e tipagem M da fato_vitorias
-dax/
-├── medidas.dax                    # medidas DAX consolidadas
-└── medidas.md                     # especificações de medidas (RANKX, Pareto, Time Intelligence)
 docs/
 ├── dicionario_dados.md            # especificação das 8 tabelas dimensionais e fatos
 ├── metodologia_e_limitacoes.md    # documentação técnica de fontes e lacunas históricas
@@ -77,10 +65,6 @@ docs/
 data/
 ├── raw/                           # CSVs brutos coletados e PDF original da USAAF
 └── processed/                     # banco SQLite (dogfight.db) e CSVs dimensionais/fatos
-powerbi/
-├── dogfight-analytics.pbip        # projeto Power BI Desktop pronto para abrir
-├── dogfight-analytics.Report/     # definição de layout e abas das 6 páginas
-└── dogfight-analytics.SemanticModel/ # modelo semântico com tabelas, relações e DAX
 requirements.txt
 LICENSE
 ```
@@ -92,5 +76,6 @@ LICENSE
 - [x] Etapa 3 — Modelagem dimensional em Star Schema (SQLite + CSVs processados)
 - [x] Etapa 4 — Consultas SQL analíticas com Window Functions e CTEs
 - [x] Etapa 5 — Análise exploratória e regressão em Jupyter Notebook
-- [x] Etapa 6 — Modelagem dimensional, DAX e consultas Power Query M
+- [ ] Etapa 6 — Dashboard Power BI
+
 
