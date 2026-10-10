@@ -1,10 +1,4 @@
--- ============================================================================
--- Consulta Analítica 3: Evolução Temporal das Perdas e Atrição por País e Fase
--- Objetivo: Rastrear o custo em aeronaves ao longo das diferentes fases da guerra,
---           calculando totais acumulados e variação período a período.
--- Utiliza: CTEs, Window Functions (LAG, SUM OVER PARTITION BY).
--- ============================================================================
-
+-- Evolução temporal de perdas e atrito por país e fase cronológica (Window Functions / LAG)
 WITH PerdasPorFase AS (
     SELECT 
         p.nome AS pais,

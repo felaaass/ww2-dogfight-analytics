@@ -1,25 +1,10 @@
-"""
-Script de Coleta: Especificações de Caças da Segunda Guerra Mundial por Variante
-Cobre entre 50 e 80 variantes históricas dos principais países beligerantes:
-- Alemanha (Bf 109, Fw 190, Me 262, Bf 110, Ta 152)
-- Reino Unido (Spitfire, Hurricane, Typhoon, Tempest, Mosquito)
-- Estados Unidos (P-51 Mustang, P-47 Thunderbolt, P-38 Lightning, P-40 Warhawk, F4F Wildcat, F6F Hellcat, F4U Corsair, P-39)
-- União Soviética (Yak-1, Yak-3, Yak-7, Yak-9, LaGG-3, La-5, La-7, MiG-3)
-- Japão (A6M Zero, Ki-43 Hayabusa, Ki-61 Hien, Ki-84 Hayate, N1K2 Shiden-Kai, J2M Raiden)
-- Itália (Macchi C.202, Macchi C.205)
-
-Fontes: Manuais de voo históricos, Jane's Fighting Aircraft of WWII, William Green (Warplanes of WWII),
-National Museum of the USAF, RAF Museum Hendon, Infoboxes técnicas da Wikipedia.
-"""
-
 import os
 import pandas as pd
 
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+
 def get_fighter_variants_data():
     fighters = [
-        # ==========================================
-        # REINO UNIDO (Royal Air Force)
-        # ==========================================
         {
             "modelo": "Supermarine Spitfire",
             "variante": "Spitfire Mk I",
@@ -1040,14 +1025,11 @@ def get_fighter_variants_data():
     return fighters
 
 def main():
-    os.makedirs(r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw", exist_ok=True)
-    data = get_fighter_variants_data()
-    df = pd.DataFrame(data)
-    out_csv = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw\caças.csv"
-    df.to_csv(out_csv, index=False, encoding='utf-8-sig')
-    print(f"Sucesso! Total de {len(df)} variantes de caças salvas em {out_csv}")
-    print("\nVariantes por país:")
-    print(df['pais'].value_counts())
+    raw_dir = os.path.join(BASE_DIR, "data", "raw")
+    os.makedirs(raw_dir, exist_ok=True)
+    df = pd.DataFrame(get_fighter_variants_data())
+    df.to_csv(os.path.join(raw_dir, "cacas.csv"), index=False, encoding="utf-8-sig")
+    df.to_csv(os.path.join(raw_dir, "caças.csv"), index=False, encoding="utf-8-sig")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

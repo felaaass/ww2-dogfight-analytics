@@ -1,22 +1,11 @@
-"""
-Pipeline de Limpeza e Validação de Dados — Segunda Guerra Mundial
-Utiliza pandas + pandera para validação rigorosa de esquemas e tipos.
-
-Regras:
-1. Padronização de nomes de países (Alemanha, Estados Unidos, Reino Unido, União Soviética, Japão, Itália, Aliados).
-2. Manutenção de NULLs históricos sem imputação artificial.
-3. Remoção de duplicatas.
-4. Validação por Pandera Schema.
-5. Geração de log_limpeza.md detalhando decisões e contagem de nulos.
-"""
-
 import os
 import pandera.pandas as pa
 from pandera.pandas import Column, Check, DataFrameSchema
 import pandas as pd
 import numpy as np
 
-# Mapeamento oficial de países
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+
 COUNTRY_MAP = {
     "usa": "Estados Unidos",
     "united states": "Estados Unidos",
@@ -48,12 +37,7 @@ COUNTRY_MAP = {
 def standardize_country(c):
     if pd.isna(c) or not str(c).strip():
         return None
-    c_clean = str(c).strip().lower()
-    return COUNTRY_MAP.get(c_clean, str(c).strip())
-
-# =============================================================================
-# ESQUEMAS PANDERA (com coerce=True)
-# =============================================================================
+    return COUNTRY_MAP.get(str(c).strip().lower(), str(c).strip())
 
 ases_schema = DataFrameSchema({
     "nome_piloto": Column(str, Check.str_length(min_value=2), nullable=False),
@@ -103,21 +87,16 @@ def process_table(raw_path, clean_path, schema, table_name, log_dict):
     df = pd.read_csv(raw_path)
     initial_rows = len(df)
     
-    # 1. Padronizar país
     if "pais" in df.columns:
         df["pais"] = df["pais"].apply(standardize_country)
         
-    # 2. Tipagem e limpeza de strings
-    for col in df.select_dtypes(include='object').columns:
+    for col in df.select_dtypes(include="object").columns:
         df[col] = df[col].astype(str).str.strip()
-        df[col] = df[col].replace({'': np.nan, 'nan': np.nan, 'None': np.nan, '—': np.nan, '-': np.nan})
+        df[col] = df[col].replace({"": np.nan, "nan": np.nan, "None": np.nan, "—": np.nan, "-": np.nan})
         
-    # 3. Tratar colunas numéricas
-    num_cols = df.select_dtypes(include=['number']).columns
-    for c in num_cols:
-        df[c] = pd.to_numeric(df[c], errors='coerce')
+    for c in df.select_dtypes(include=["number"]).columns:
+        df[c] = pd.to_numeric(df[c], errors="coerce")
         
-    # 4. Remoção de duplicatas
     if "nome_piloto" in df.columns:
         df = df.drop_duplicates(subset=["nome_piloto", "pais"])
     elif "variante" in df.columns:
@@ -127,106 +106,53 @@ def process_table(raw_path, clean_path, schema, table_name, log_dict):
     elif "pais" in df.columns and "ano" in df.columns and "teatro" in df.columns:
         df = df.drop_duplicates(subset=["pais", "ano", "teatro"])
         
-    final_rows = len(df)
-    
-    # Contagem de nulos por coluna
-    null_counts = df.isnull().sum().to_dict()
-    
-    # Validação via Pandera
-    print(f"Validando {table_name} com Pandera...")
     validated_df = schema.validate(df)
-    
-    # Salvar em /data/processed
-    validated_df.to_csv(clean_path, index=False, encoding='utf-8-sig')
+    validated_df.to_csv(clean_path, index=False, encoding="utf-8-sig")
     
     log_dict[table_name] = {
         "linhas_iniciais": initial_rows,
-        "linhas_finais": final_rows,
-        "duplicatas_removidas": initial_rows - final_rows,
-        "contagem_nulos": null_counts,
+        "linhas_finais": len(validated_df),
+        "duplicatas_removidas": initial_rows - len(validated_df),
+        "contagem_nulos": validated_df.isnull().sum().to_dict(),
         "status_pandera": "VALIDADO COM SUCESSO"
     }
     return validated_df
 
 def generate_cleaning_log(log_dict, log_file_path):
     with open(log_file_path, "w", encoding="utf-8") as f:
-        f.write("# Log de Limpeza e Validação de Dados — Projeto Ases e Atrito\n\n")
-        f.write("Data de Execução: Outubro de 2026  \n")
-        f.write("Mecanismo de Validação: Pandas 2.3 + Pandera 0.34  \n\n")
-        f.write("## 1. Princípios de Limpeza e Integridade\n\n")
-        f.write("1. **Nenhum Dado Inventado:** Valores ausentes foram mantidos estritamente como `NULL` (NaN).\n")
-        f.write("2. **Padronização Geopolítica:** Nomes de países unificados no padrão lusófono:\n")
-        f.write("   `Alemanha`, `Estados Unidos`, `Reino Unido`, `União Soviética`, `Japão`, `Itália` e `Aliados`.\n")
-        f.write("3. **Padronização de Unidades:**\n")
-        f.write("   - Velocidade: km/h (quilômetros por hora)\n")
-        f.write("   - Altitude / Teto: m (metros)\n")
-        f.write("   - Alcance: km (quilômetros)\n")
-        f.write("   - Perdas e Abates: contagem inteira de aeronaves\n")
-        f.write("4. **Validação de Esquemas (Pandera):** Checagem rigorosa de tipos, faixas numéricas de plausibilidade física e completude da coluna `fonte`.\n\n")
-        f.write("---\n\n")
-        f.write("## 2. Relatório de Execução por Tabela\n\n")
-        
+        f.write("# Log de Limpeza e Validação de Dados\n\n")
+        f.write("Execução: Pandas 2.3 + Pandera 0.34\n\n")
+        f.write("## 1. Regras de Integridade\n\n")
+        f.write("- Nulos preservados como `NULL` sem imputação estatística.\n")
+        f.write("- Padronização de nomes de países (Alemanha, Estados Unidos, Reino Unido, União Soviética, Japão, Itália, Aliados).\n")
+        f.write("- Conversão e validação estrita de tipos por schema Pandera.\n\n")
+        f.write("## 2. Relatório de Execução\n\n")
         for tbl, metrics in log_dict.items():
-            f.write(f"### Tabela: `{tbl}`\n")
-            f.write(f"- **Linhas Iniciais:** {metrics['linhas_iniciais']}\n")
-            f.write(f"- **Linhas Finais:** {metrics['linhas_finais']}\n")
-            f.write(f"- **Duplicatas Removidas:** {metrics['duplicatas_removidas']}\n")
-            f.write(f"- **Status Pandera:** {metrics['status_pandera']}\n")
-            f.write("- **Contagem de Nulos por Coluna:**\n")
-            for col, n_null in metrics['contagem_nulos'].items():
-                f.write(f"  - `{col}`: {n_null} nulos\n")
+            f.write(f"### `{tbl}`\n")
+            f.write(f"- Linhas: {metrics['linhas_iniciais']} -> {metrics['linhas_finais']} ({metrics['duplicatas_removidas']} duplicatas removidas)\n")
+            f.write(f"- Status: {metrics['status_pandera']}\n")
+            f.write("- Nulos por coluna:\n")
+            for col, n_null in metrics["contagem_nulos"].items():
+                f.write(f"  - `{col}`: {n_null}\n")
             f.write("\n")
 
 def main():
-    raw_dir = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw"
-    proc_dir = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\processed"
-    docs_dir = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\docs"
+    raw_dir = os.path.join(BASE_DIR, "data", "raw")
+    proc_dir = os.path.join(BASE_DIR, "data", "processed")
+    docs_dir = os.path.join(BASE_DIR, "docs")
     os.makedirs(proc_dir, exist_ok=True)
     os.makedirs(docs_dir, exist_ok=True)
     
     log_dict = {}
     
-    # 1. Ases
-    process_table(
-        os.path.join(raw_dir, "ases.csv"),
-        os.path.join(proc_dir, "ases_limpo.csv"),
-        ases_schema,
-        "ases_limpo.csv",
-        log_dict
-    )
+    cacas_file = os.path.join(raw_dir, "caças.csv") if os.path.exists(os.path.join(raw_dir, "caças.csv")) else os.path.join(raw_dir, "cacas.csv")
     
-    # 2. Caças
-    process_table(
-        os.path.join(raw_dir, "caças.csv"),
-        os.path.join(proc_dir, "cacas_limpo.csv"),
-        cacas_schema,
-        "cacas_limpo.csv",
-        log_dict
-    )
+    process_table(os.path.join(raw_dir, "ases.csv"), os.path.join(proc_dir, "ases_limpo.csv"), ases_schema, "ases_limpo.csv", log_dict)
+    process_table(cacas_file, os.path.join(proc_dir, "cacas_limpo.csv"), cacas_schema, "cacas_limpo.csv", log_dict)
+    process_table(os.path.join(raw_dir, "batalhas_perdas.csv"), os.path.join(proc_dir, "batalhas_perdas_limpo.csv"), batalhas_schema, "batalhas_perdas_limpo.csv", log_dict)
+    process_table(os.path.join(raw_dir, "producao_e_atrito.csv"), os.path.join(proc_dir, "producao_e_atrito_limpo.csv"), producao_schema, "producao_e_atrito_limpo.csv", log_dict)
     
-    # 3. Batalhas e Perdas
-    process_table(
-        os.path.join(raw_dir, "batalhas_perdas.csv"),
-        os.path.join(proc_dir, "batalhas_perdas_limpo.csv"),
-        batalhas_schema,
-        "batalhas_perdas_limpo.csv",
-        log_dict
-    )
-    
-    # 4. Produção e Atrito
-    process_table(
-        os.path.join(raw_dir, "producao_e_atrito.csv"),
-        os.path.join(proc_dir, "producao_e_atrito_limpo.csv"),
-        producao_schema,
-        "producao_e_atrito_limpo.csv",
-        log_dict
-    )
-    
-    # Gerar log_limpeza.md
-    log_path = os.path.join(docs_dir, "log_limpeza.md")
-    generate_cleaning_log(log_dict, log_path)
-    print(f"\nPipeline de limpeza concluído com sucesso!")
-    print(f"Log de limpeza salvo em: {log_path}")
+    generate_cleaning_log(log_dict, os.path.join(docs_dir, "log_limpeza.md"))
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

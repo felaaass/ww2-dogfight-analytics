@@ -1,38 +1,14 @@
-"""
-Script de Coleta: Produção de Aeronaves e Atrito Operacional (Segunda Guerra Mundial)
-Extrai dados primários de duas fontes históricas governamentais:
-1) Army Air Forces Statistical Digest - World War II (USAAF, Dezembro 1945)
-   - Tabela 118: Combat Sorties Flown, By Theater (1942-1945)
-   - Tabela 158: Airplane Losses on Combat Missions, By Theater (1942-1945)
-   - Tabela 166: Enemy Aircraft Destroyed, By Theater (1942-1945)
-   Extraído via pdfplumber do PDF oficial depositado no National Archives / HyperWar / Archive.org.
-
-2) Produção Militar Anual por País (1939-1945):
-   - Estados Unidos: War Production Board / AAF Statistical Digest Tabela 74
-   - Alemanha: Reich Ministry of Armaments (Speer) / USSBS German Aircraft Industry Report
-   - Reino Unido: Ministry of Aircraft Production (MAP)
-   - União Soviética: Gosplan / Ministério da Indústria de Aviação Soviética (V.B. Shavrov)
-   - Japão: United States Strategic Bombing Survey (USSBS) Report No. 15 (Japanese Aircraft Industry)
-"""
-
 import os
 import re
 import pdfplumber
 import pandas as pd
 
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+
 def extract_aaf_stats():
-    pdf_path = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw\ArmyAirForcesStatisticalDigestWorldWarII.pdf"
-    print("Inspecionando AAF Statistical Digest PDF via pdfplumber...")
+    pdf_path = os.path.join(BASE_DIR, "data", "raw", "ArmyAirForcesStatisticalDigestWorldWarII.pdf")
     
-    # Validamos os dados das Tabelas 118 (p. 220 / pdf 241), 158 (p. 254 / pdf 275), 166 (p. 262 / pdf 283)
-    # Estruturamos os totais anuais por teatro validados diretamente da publicação
-    
-    # Teatros:
-    # ETO: European Theater of Operations (8th & 9th Air Forces)
-    # MTO: Mediterranean Theater of Operations (12th & 15th Air Forces)
-    # FEAF: Far East Air Forces (5th & 13th Air Forces)
-    # POA: Pacific Ocean Areas (7th Air Force)
-    # CBI: China & India-Burma (10th & 14th Air Forces)
+    # Consolidação anual por teatro auditada das Tabelas 118 (p. 220), 158 (p. 254) e 166 (p. 262) do AAFSD (1945)
     # 20th AF: Twentieth Air Force (B-29 Superfortress contra o Japão)
     
     theaters_data = [
@@ -136,18 +112,11 @@ def get_national_production_data():
     return prod_records
 
 def main():
-    os.makedirs(r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw", exist_ok=True)
-    aaf_data = extract_aaf_stats()
-    nat_prod = get_national_production_data()
-    
-    all_data = aaf_data + nat_prod
+    raw_dir = os.path.join(BASE_DIR, "data", "raw")
+    os.makedirs(raw_dir, exist_ok=True)
+    all_data = extract_aaf_stats() + get_national_production_data()
     df = pd.DataFrame(all_data)
-    
-    out_csv = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw\producao_e_atrito.csv"
-    df.to_csv(out_csv, index=False, encoding='utf-8-sig')
-    print(f"\nSucesso! Total de {len(df)} registros salvos em {out_csv}")
-    print("\nResumo dos dados coletados:")
-    print(df.info())
+    df.to_csv(os.path.join(raw_dir, "producao_e_atrito.csv"), index=False, encoding="utf-8-sig")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

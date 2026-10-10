@@ -1,10 +1,4 @@
--- ============================================================================
--- Consulta Analítica 4: Comparação de Especificações entre Variantes da Mesma Aeronave
--- Objetivo: Demonstrar o salto tecnológico (velocidade, teto, alcance) dentro da
---           mesma família de caças ao longo dos anos de conflito.
--- Utiliza: CTEs, Window Functions (FIRST_VALUE, LAG, PERCENT_RANK).
--- ============================================================================
-
+-- Comparação técnica de variantes de caças e ganho de velocidade (FIRST_VALUE / Window Functions)
 WITH FamiliasPrincipais AS (
     SELECT 
         modelo,
@@ -39,17 +33,14 @@ EvolucaoVariantes AS (
         alcance_km,
         unidades_produzidas,
         armamento,
-        -- Primeiro valor de velocidade da linhagem
         FIRST_VALUE(velocidade_max_kmh) OVER (
             PARTITION BY modelo 
             ORDER BY ano_entrada_servico ASC, variante ASC
         ) AS vel_variante_inicial,
-        -- Velocidade da variante anterior
         LAG(velocidade_max_kmh) OVER (
             PARTITION BY modelo 
             ORDER BY ano_entrada_servico ASC, variante ASC
         ) AS vel_variante_anterior,
-        -- Total produzido de toda a família
         SUM(unidades_produzidas) OVER (PARTITION BY modelo) AS producao_total_familia
     FROM FamiliasPrincipais
 )

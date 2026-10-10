@@ -1,10 +1,4 @@
--- ============================================================================
--- Consulta Analítica 2: Razão entre Abates Reivindicados e Perdas Reais por Batalha
--- Objetivo: Revelar o fenômeno histórico do 'overclaiming' comparando o que um
---           lado reivindicou ter abatido contra o que o oponente realmente perdeu.
--- Utiliza: Self-joins em CTEs, Window Functions (RANK, DENSE_RANK), Casos condicionais.
--- ============================================================================
-
+-- Razão entre abates reivindicados e perdas reais por batalha (overclaiming)
 WITH BatalhasDetalhadas AS (
     SELECT 
         fp.id_fato_perda,
@@ -22,7 +16,6 @@ WITH BatalhasDetalhadas AS (
     INNER JOIN dim_pais p ON fp.id_pais = p.id_pais
 ),
 ConfrontoOponentes AS (
-    -- Pareia os registros da mesma batalha e data onde os lados são opostos
     SELECT 
         a.batalha,
         a.data,

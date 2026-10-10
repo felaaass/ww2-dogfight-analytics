@@ -1,26 +1,7 @@
-"""
-Script de Coleta: Perdas e Abates Reivindicados em Grandes Batalhas Aéreas da 2ª GM
-Cobre as batalhas e campanhas obrigatórias:
-1) Batalha da Inglaterra (Fases e marcos: Kanalkampf, Adlerangriff, The Hardest Day,
-   Ataques a Aeródromos, Battle of Britain Day, Encerramento)
-2) Batalha de Midway (4-7 Jun 1942)
-3) Batalha do Mar das Filipinas ("Marianas Turkey Shoot", 19-20 Jun 1944)
-4) Campanha de Bombardeio Estratégico sobre a Alemanha:
-   - Missão Schweinfurt-Regensburg (17 Ago 1943)
-   - Segunda Missão a Schweinfurt - Black Thursday (14 Out 1943)
-   - Big Week - Operação Argument (20-25 Fev 1944)
-   - Primeiro Grande Ataque a Berlim (06 Mar 1944)
-   - Operação Bodenplatte (01 Jan 1945)
-
-Nota Metodológica e Histórica Crucial:
-Toda batalha inclui tanto as 'perdas reais' sofridas pelo país quanto os
-'abates reivindicados' (kills claimed) declarados pelos seus aviadores.
-A discrepância (overclaiming sistemático de 2x a 10x) é um fenômeno universal
-do combate aéreo comprovado por cruzamento de arquivos pós-guerra.
-"""
-
 import os
 import pandas as pd
+
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 def get_battles_loss_claims_data():
     battles = [
@@ -283,14 +264,10 @@ def get_battles_loss_claims_data():
     return battles
 
 def main():
-    os.makedirs(r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw", exist_ok=True)
-    data = get_battles_loss_claims_data()
-    df = pd.DataFrame(data)
-    out_csv = r"C:\Users\artur\.gemini\antigravity\scratch\ases-e-atrito\data\raw\batalhas_perdas.csv"
-    df.to_csv(out_csv, index=False, encoding='utf-8-sig')
-    print(f"Sucesso! Total de {len(df)} registros de batalhas e perdas salvos em {out_csv}")
-    print("\nRegistros por Batalha / Evento:")
-    print(df[['batalha', 'pais', 'aeronaves_perdidas', 'aeronaves_abatidas_reivindicadas']])
+    raw_dir = os.path.join(BASE_DIR, "data", "raw")
+    os.makedirs(raw_dir, exist_ok=True)
+    df = pd.DataFrame(get_battles_loss_claims_data())
+    df.to_csv(os.path.join(raw_dir, "batalhas_perdas.csv"), index=False, encoding="utf-8-sig")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

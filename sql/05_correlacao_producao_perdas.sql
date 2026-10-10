@@ -1,10 +1,4 @@
--- ============================================================================
--- Consulta Analítica 5: Relação entre Produção Industrial e Atrito Operacional
--- Objetivo: Cruzar a capacidade de reposição fabril de aeronaves com a intensidade
---           de perdas e saídas de combate por país e período.
--- Utiliza: CTEs, Window Functions (SUM, LAG, RATIO_TO_REPORT/PERCENT_RANK).
--- ============================================================================
-
+-- Produção industrial militar e atrito operacional por país e ano (LAG / Window Functions)
 WITH ProducaoNacional AS (
     SELECT 
         p.nome AS pais,
@@ -39,7 +33,6 @@ SELECT
         ((pn.unidades_produzidas - LAG(pn.unidades_produzidas) OVER (PARTITION BY pn.pais ORDER BY pn.ano ASC)) * 100.0) /
         NULLIF(LAG(pn.unidades_produzidas) OVER (PARTITION BY pn.pais ORDER BY pn.ano ASC), 0), 1
     ) AS crescimento_producao_pct,
-    -- Métricas operacionais USAAF para correlacionar no caso dos EUA
     CASE WHEN pn.pais = 'Estados Unidos' THEN usa.total_sorties ELSE NULL END AS sorties_usaaf,
     CASE WHEN pn.pais = 'Estados Unidos' THEN usa.total_perdas_combate ELSE NULL END AS perdas_combate_usaaf,
     CASE 

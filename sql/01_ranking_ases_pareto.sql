@@ -1,10 +1,4 @@
--- ============================================================================
--- Consulta Analítica 1: Ranking de Ases e Curva de Concentração de Pareto
--- Objetivo: Demonstrar a concentração extrema de vitórias na guerra aérea.
--- Utiliza: CTEs, Window Functions (SUM OVER, ROW_NUMBER, COUNT OVER, ROUND).
--- Banco: dogfight.db (SQLite / DuckDB / SQL padrão ANSI)
--- ============================================================================
-
+-- Ranking de ases e percentual acumulado de vitórias (Pareto / Window Functions)
 WITH BaseAses AS (
     SELECT 
         p.id_piloto,
