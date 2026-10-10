@@ -77,6 +77,10 @@ docs/
 data/
 ├── raw/                           # CSVs brutos coletados e PDF original da USAAF
 └── processed/                     # banco SQLite (dogfight.db) e CSVs dimensionais/fatos
+powerbi/
+├── dogfight-analytics.pbip        # projeto Power BI Desktop pronto para abrir
+├── dogfight-analytics.Report/     # definição de layout e abas das 6 páginas
+└── dogfight-analytics.SemanticModel/ # modelo semântico com tabelas, relações e DAX
 requirements.txt
 LICENSE
 ```

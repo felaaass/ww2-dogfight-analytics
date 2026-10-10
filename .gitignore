@@ -12,3 +12,8 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# Power BI Project Local Cache
+*.abf
+*.pbi/localSettings.json
+**/localSettings.json
