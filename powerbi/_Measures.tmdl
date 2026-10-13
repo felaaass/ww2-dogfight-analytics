@@ -1,0 +1,100 @@
+createOrReplace table _Measures
+
+	measure 'Total de Abates' = SUM(fato_vitorias[total_vitorias])
+		formatString: #,0
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Total de Pilotos' = DISTINCTCOUNT(fato_vitorias[id_piloto])
+		formatString: #,0
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Média de Abates por Piloto' = DIVIDE([Total de Abates], [Total de Pilotos], BLANK())
+		formatString: 0.0
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Soma Acumulada de Abates' = 
+		VAR CurrentWins = [Total de Abates]
+		VAR CurrentPilot = SELECTEDVALUE(dim_piloto[nome_piloto])
+		RETURN
+		SUMX(
+			FILTER(
+				ADDCOLUMNS(ALLSELECTED(dim_piloto[nome_piloto]), "@Wins", [Total de Abates]),
+				[@Wins] > CurrentWins || ([@Wins] = CurrentWins && dim_piloto[nome_piloto] <= CurrentPilot)
+			),
+			[@Wins]
+		)
+		formatString: #,0
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Percentual Acumulado de Pareto' = 
+		DIVIDE(
+			[Soma Acumulada de Abates],
+			CALCULATE([Total de Abates], ALLSELECTED(dim_piloto)),
+			BLANK()
+		)
+		formatString: 0.0%
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Coeficiente de Concentração' = 
+		VAR TotalWins = CALCULATE([Total de Abates], ALLSELECTED(dim_piloto))
+		VAR TotalPilots = CALCULATE([Total de Pilotos], ALLSELECTED(dim_piloto))
+		VAR Top20Count = ROUNDUP(TotalPilots * 0.20, 0)
+		VAR Top20Wins = 
+			SUMX(
+				TOPN(Top20Count, ALLSELECTED(dim_piloto), [Total de Abates], DESC),
+				[Total de Abates]
+			)
+		RETURN
+		DIVIDE(Top20Wins, TotalWins, BLANK())
+		formatString: 0.0%
+		displayFolder: "01 Ases e Pareto"
+
+	measure 'Vitórias Reivindicadas' = SUM(fato_perdas[aeronaves_abatidas_reivindicadas])
+		formatString: #,0
+		displayFolder: "02 Overclaiming"
+
+	measure 'Perdas Reais Documentadas' = SUM(fato_perdas[aeronaves_perdidas])
+		formatString: #,0
+		displayFolder: "02 Overclaiming"
+
+	measure 'Razão de Overclaiming' = DIVIDE([Vitórias Reivindicadas], [Perdas Reais Documentadas], BLANK())
+		formatString: 0.00x
+		displayFolder: "02 Overclaiming"
+
+	measure 'Divergência Absoluta de Abates' = [Vitórias Reivindicadas] - [Perdas Reais Documentadas]
+		formatString: #,0
+		displayFolder: "02 Overclaiming"
+
+	measure 'Produção Total de Aeronaves' = SUM(fato_producao[unidades_produzidas])
+		formatString: #,0
+		displayFolder: "03 Atrito e Engenharia"
+
+	measure 'Total de Saídas Operacionais' = SUM(fato_producao[sorties])
+		formatString: #,0
+		displayFolder: "03 Atrito e Engenharia"
+
+	measure 'Total de Perdas em Combate' = SUM(fato_producao[perdas_combate])
+		formatString: #,0
+		displayFolder: "03 Atrito e Engenharia"
+
+	measure 'Taxa de Atrito por 1.000 Saídas' = DIVIDE([Total de Perdas em Combate], [Total de Saídas Operacionais], BLANK()) * 1000
+		formatString: 0.00
+		displayFolder: "03 Atrito e Engenharia"
+
+	measure 'Razão Reposição Fabril vs Perdas' = DIVIDE([Produção Total de Aeronaves], [Total de Perdas em Combate], BLANK())
+		formatString: 0.00x
+		displayFolder: "03 Atrito e Engenharia"
+
+	measure 'Velocidade Máxima Média por Ano de Introdução' = AVERAGE(dim_aeronave[velocidade_max_kmh])
+		formatString: #,0
+		displayFolder: "03 Atrito e Engenharia"
+
+	column Placeholder
+		dataType: string
+		isHidden
+		isNameInferred
+		sourceColumn: [Placeholder]
+
+	partition _Measures = calculated
+		mode: import
+		source = ROW("Placeholder", BLANK())
