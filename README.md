@@ -59,14 +59,16 @@ sql/
 docs/
 ├── dicionario_dados.md            # especificação das 8 tabelas dimensionais e fatos
 ├── metodologia_e_limitacoes.md    # documentação técnica de fontes e lacunas históricas
-├── guia_powerbi.md                # especificação de relacionamentos e páginas do dashboard
+├── catalogo_medidas_dax.md        # catálogo de relacionamentos, DAX e visuais
 ├── log_coleta.md                  # log de extração de dados brutos
 └── log_limpeza.md                 # log de validação e integridade Pandera
 data/
 ├── raw/                           # CSVs brutos coletados e PDF original da USAAF
 └── processed/                     # banco SQLite (dogfight.db) e CSVs dimensionais/fatos
 powerbi/
-└── dashboard_dogfight.pbix        # dashboard com Star Schema e DAX
+├── dashboard_dogfight.pbix        # artefato binário do painel compilado nativamente
+├── theme_dogfight.json            # tema nativo escuro com paleta analítica
+└── inject_measures.csx            # script C# para automação via Tabular Editor 2
 requirements.txt
 LICENSE
 ```

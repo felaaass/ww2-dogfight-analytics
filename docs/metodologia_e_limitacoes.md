@@ -11,7 +11,7 @@ O pipeline foi estruturado em quatro camadas progressivas:
 1. **Coleta Bruta (`/data/raw`):** Scripts Python (`coleta_ases.py`, `coleta_cacas.py`, `coleta_batalhas.py`, `coleta_producao_atrito.py`) extraíram dados de APIs públicas da Wikipedia, relatórios técnicos arquivados e da publicação oficial do Departamento de Guerra dos EUA (*AAF Statistical Digest*).
 2. **Limpeza e Validação (`/src/limpeza`):** Executada com Pandas e Pandera, aplicando validação estrita de tipos, faixas de plausibilidade e padronização geopolítica.
 3. **Modelagem Dimensional (`/src/limpeza/modelagem_estrela.py`):** Estruturação em Esquema Estrela (*Star Schema*), persistida em SQLite local (`dogfight.db`) e exportada como CSVs limpos em `/data/processed`.
-4. **Camada Analítica (`/sql`, `/src/analise`, `/dax`, `/powerquery`):** Consultas SQL analíticas com Window Functions, notebook exploratório e artefatos de apoio para construção manual do dashboard no Power BI.
+4. **Camada Analítica (`/sql`, `/src/analise`, `/powerbi`, `/docs`):** Consultas SQL analíticas com Window Functions, notebook exploratório e catálogo técnico de modelagem/DAX para o dashboard no Power BI.
 
 ---
 
