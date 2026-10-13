@@ -26,40 +26,15 @@ createOrReplace
 			formatString: 0.0
 			displayFolder: "01 Ases e Pareto"
 
-		measure 'Soma Acumulada de Abates' = 
-			VAR CurrentWins = [Total de Abates]
-			VAR CurrentPilot = SELECTEDVALUE(dim_piloto[nome_piloto])
-			RETURN
-			SUMX(
-				FILTER(
-					ADDCOLUMNS(ALLSELECTED(dim_piloto[nome_piloto]), "@Wins", [Total de Abates]),
-					[@Wins] > CurrentWins || ([@Wins] = CurrentWins && dim_piloto[nome_piloto] <= CurrentPilot)
-				),
-				[@Wins]
-			)
+		measure 'Soma Acumulada de Abates' = VAR CurrentWins = [Total de Abates] VAR CurrentPilot = SELECTEDVALUE(dim_piloto[nome_piloto]) RETURN SUMX(FILTER(ADDCOLUMNS(ALLSELECTED(dim_piloto[nome_piloto]), "@Wins", [Total de Abates]), [@Wins] > CurrentWins || ([@Wins] = CurrentWins && dim_piloto[nome_piloto] <= CurrentPilot)), [@Wins])
 			formatString: #,0
 			displayFolder: "01 Ases e Pareto"
 
-		measure 'Percentual Acumulado de Pareto' = 
-			DIVIDE(
-				[Soma Acumulada de Abates],
-				CALCULATE([Total de Abates], ALLSELECTED(dim_piloto)),
-				BLANK()
-			)
+		measure 'Percentual Acumulado de Pareto' = DIVIDE([Soma Acumulada de Abates], CALCULATE([Total de Abates], ALLSELECTED(dim_piloto)), BLANK())
 			formatString: 0.0%
 			displayFolder: "01 Ases e Pareto"
 
-		measure 'Coeficiente de Concentração' = 
-			VAR TotalWins = CALCULATE([Total de Abates], ALLSELECTED(dim_piloto))
-			VAR TotalPilots = CALCULATE([Total de Pilotos], ALLSELECTED(dim_piloto))
-			VAR Top20Count = ROUNDUP(TotalPilots * 0.20, 0)
-			VAR Top20Wins = 
-				SUMX(
-					TOPN(Top20Count, ALLSELECTED(dim_piloto), [Total de Abates], DESC),
-					[Total de Abates]
-				)
-			RETURN
-			DIVIDE(Top20Wins, TotalWins, BLANK())
+		measure 'Coeficiente de Concentração' = VAR TotalWins = CALCULATE([Total de Abates], ALLSELECTED(dim_piloto)) VAR TotalPilots = CALCULATE([Total de Pilotos], ALLSELECTED(dim_piloto)) VAR Top20Count = ROUNDUP(TotalPilots * 0.20, 0) VAR Top20Wins = SUMX(TOPN(Top20Count, ALLSELECTED(dim_piloto), [Total de Abates], DESC), [Total de Abates]) RETURN DIVIDE(Top20Wins, TotalWins, BLANK())
 			formatString: 0.0%
 			displayFolder: "01 Ases e Pareto"
 
