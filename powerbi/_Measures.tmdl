@@ -1,4 +1,4 @@
-createOrReplace table _Measures
+table _Measures
 
 	measure 'Total de Abates' = SUM(fato_vitorias[total_vitorias])
 		formatString: #,0
